@@ -549,6 +549,16 @@ section {
     color: #0e8ce4;
 }
 
+.quoteOfTheDay {
+    margin-bottom: 14px;
+    font-style: italic;
+}
+
+.logo>div {
+    font-size: 14px;
+    font-style: italic;
+}
+
 .header_search {
     height: 175px;
 }
@@ -2937,7 +2947,7 @@ select option {
 
 .trends_nav i {
     line-height: 36px;
-    color: #e5e5e5;
+    color: #000;
     font-size: 18px;
     -webkit-transition: all 200ms ease;
     -moz-transition: all 200ms ease;
