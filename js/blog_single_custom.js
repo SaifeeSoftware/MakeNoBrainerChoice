@@ -26,8 +26,9 @@ $(document).ready(function()
 	var header = $('.header');
 
 	setHeader();
-
+/* 
 	initCustomDropdown();
+*/
 	initPageMenu();
 
 	$(window).on('resize', function()

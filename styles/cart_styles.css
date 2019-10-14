@@ -1642,3 +1642,10 @@ select option
 {
 	margin-right: 0px;
 }
+
+
+img {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}
