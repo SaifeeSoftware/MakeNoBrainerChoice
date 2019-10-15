@@ -2189,3 +2189,7 @@ select option {
 .logos_list li:last-child {
     margin-right: 0px;
 }
+
+.hide{
+    display: none;
+}
