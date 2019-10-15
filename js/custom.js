@@ -55,7 +55,8 @@ $(document).ready(function() {
     arrivalsSliderZIndex();
     bestsellersSlider();
     initTabs();
-    initTrendsSlider();
+    initTrendsSlider('#trends_lovedCategory');
+    initTrendsSlider('#trends_PersonalCategory');
     initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
@@ -665,9 +666,9 @@ $(document).ready(function() {
 
     */
 
-    function initTrendsSlider() {
-        if ($('.trends_slider').length) {
-            var trendsSlider = $('.trends_slider');
+    function initTrendsSlider(id) {
+        if ($(id + ' .trends_slider').length) {
+            var trendsSlider = $(id + ' .trends_slider');
             trendsSlider.owlCarousel({
                 loop: false,
                 margin: 30,
@@ -686,15 +687,15 @@ $(document).ready(function() {
                 $(ev.target).toggleClass('active');
             });
 
-            if ($('.trends_prev').length) {
-                var prev = $('.trends_prev');
+            if ($(id + ' .trends_prev').length) {
+                var prev = $(id + ' .trends_prev');
                 prev.on('click', function() {
                     trendsSlider.trigger('prev.owl.carousel');
                 });
             }
 
-            if ($('.trends_next').length) {
-                var next = $('.trends_next');
+            if ($(id + ' .trends_next').length) {
+                var next = $(id + ' .trends_next');
                 next.on('click', function() {
                     trendsSlider.trigger('next.owl.carousel');
                 });
