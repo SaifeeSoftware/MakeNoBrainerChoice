@@ -57,6 +57,8 @@ $(document).ready(function() {
     initTabs();
     initTrendsSlider('#trends_lovedCategory');
     initTrendsSlider('#trends_PersonalCategory');
+    initTrendsSlider('#trends_NewBornCategory');
+
     initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
