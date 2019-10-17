@@ -58,7 +58,7 @@ $(document).ready(function() {
     initTrendsSlider('#trends_lovedCategory');
     initTrendsSlider('#trends_PersonalCategory');
     initTrendsSlider('#trends_NewBornCategory');
-
+    initTrendsSlider('#trends_bestInFitness');
     initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
