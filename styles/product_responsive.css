@@ -92,6 +92,12 @@
     .newsletter_form {
         width: 456px;
     }
+    .logo a img {
+        width: 180px;
+    }
+    .logo_container {
+        padding-left: 0;
+    }
 }
 
 
@@ -124,7 +130,7 @@
         text-align: left;
     }
     .main_nav {
-        margin-top: 56px;
+        margin-top: 10px;
     }
     .main_nav_menu {
         display: none;
@@ -321,12 +327,16 @@
     .top_bar {
         display: none;
     }
+    .logo_container {
+        padding-left: 0;
+        margin-bottom: 15px;
+    }
     .logo_container,
     .wishlist_cart {
         height: 72px;
     }
-    .logo a {
-        font-size: 24px;
+    .logo a img {
+        width: 180px;
     }
     .cat_menu_container {
         width: auto;

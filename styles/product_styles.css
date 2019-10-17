@@ -2190,6 +2190,11 @@ select option {
     margin-right: 0px;
 }
 
-.hide{
+.hide {
     display: none;
+}
+
+.logo a img {
+    width: 280px;
+    height: auto;
 }

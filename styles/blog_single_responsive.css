@@ -57,6 +57,12 @@
 ************/
 
 @media only screen and (max-width: 1199px) {
+    .logo a img {
+        width: 180px;
+    }
+    .logo_container {
+        padding-left: 0;
+    }
     .cat_menu_container {
         width: 211px;
         padding-left: 25px;
@@ -110,9 +116,11 @@
     .main_nav_menu {
         display: none;
     }
-    .logo_container,
     .wishlist_cart {
         height: 125px;
+    }
+    .logo_container {
+        height: 85px;
     }
     .main_nav_content {
         background: #0e8ce4;
@@ -243,12 +251,16 @@
     .top_bar {
         display: none;
     }
+    .logo_container {
+        padding-left: 0;
+        margin-bottom: 15px;
+    }
     .logo_container,
     .wishlist_cart {
         height: 72px;
     }
-    .logo a {
-        font-size: 24px;
+    .logo a img {
+        width: 180px;
     }
     .cat_menu_container {
         width: auto;
