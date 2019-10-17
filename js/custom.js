@@ -59,6 +59,8 @@ $(document).ready(function() {
     initTrendsSlider('#trends_PersonalCategory');
     initTrendsSlider('#trends_NewBornCategory');
     initTrendsSlider('#trends_bestInFitness');
+    initTrendsSlider('#trends_officeDesk');
+    
     initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
