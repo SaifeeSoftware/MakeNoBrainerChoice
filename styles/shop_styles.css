@@ -2284,3 +2284,6 @@ select option
 {
 	margin-right: 0px;
 }
+.hide{
+	display: none;;
+}
