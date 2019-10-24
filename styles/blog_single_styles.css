@@ -1388,6 +1388,13 @@ select option {
     background-position: center center;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.blog_image img {
+    width: auto;
+    height: 210px;
 }
 
 .blog_text {
