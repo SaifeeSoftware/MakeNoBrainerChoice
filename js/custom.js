@@ -60,6 +60,10 @@ $(document).ready(function() {
     initTrendsSlider('#trends_NewBornCategory');
     initTrendsSlider('#trends_bestInFitness');
     initTrendsSlider('#trends_officeDesk');
+    initTrendsSlider('#trends_mobileAcessories');
+    initTrendsSlider('#trends_bestInCategory');
+    
+    
     
     initReviewsSlider();
     initViewedSlider();
