@@ -1701,3 +1701,7 @@ select option {
     width: 280px;
     height: auto;
 }
+
+.hide{
+    display: none;
+}
