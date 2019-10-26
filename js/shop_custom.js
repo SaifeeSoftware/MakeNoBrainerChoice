@@ -314,6 +314,17 @@ $(document).ready(function() {
                 }
             });
         });
+        $(".shop_product_count").click(function(e) {
+            e.preventDefault();
+            $('.product_grid').isotope({
+                filter: '*',
+                animationOptions: {
+                    duration: 750,
+                    easing: 'linear',
+                    queue: false
+                }
+            });
+        });
 
 
 
