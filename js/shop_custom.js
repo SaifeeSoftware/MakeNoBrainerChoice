@@ -297,6 +297,27 @@ $(document).ready(function() {
             });
         });
 
+        $(".sidebar_categories li a").click(function(e) {
+            e.preventDefault();
+            $('.product_grid').isotope({
+                filter: function() {
+                    var itemCat = $(this).find('.product_cat').html();
+                    var selectedItem = $(e.target).text();
+                    if (itemCat && selectedItem) {
+                        return (itemCat.toLowerCase() === selectedItem.toLowerCase());
+                    }
+                },
+                animationOptions: {
+                    duration: 750,
+                    easing: 'linear',
+                    queue: false
+                }
+            });
+        });
+
+
+
+
     }
 
     /* 
