@@ -1733,3 +1733,7 @@ select option {
     width: 280px;
     height: auto;
 }
+
+.col-lg-4 {
+    padding-bottom: 15px;
+	}
