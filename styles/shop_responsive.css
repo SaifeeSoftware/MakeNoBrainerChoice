@@ -634,3 +634,21 @@
 {
 	
 }
+.logo a img {
+    width: 280px;
+    height: auto;
+}
+.quoteOfTheDay {
+    margin-bottom: 14px;
+    font-style: italic;
+}
+@media only screen and (max-width: 575px)
+{
+.logo a img {
+    width: 180px;
+}
+
+}
+.col-md-5{
+	padding-left: 3px;
+}
