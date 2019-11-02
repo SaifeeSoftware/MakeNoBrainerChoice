@@ -2363,3 +2363,7 @@ select option {
 .shop_product_count {
     color: #0d82d3;
 }
+
+#slider-range .ui-slider .ui-slider-handle{
+    width: 15px;
+    }

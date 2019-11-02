@@ -9,6 +9,7 @@
 3. Init Custom Dropdown
 4. Init Page Menu
 5. Init Google Map
+6. Send Mail To
 
 
 ******************************/
@@ -16,6 +17,11 @@
 $(document).ready(function()
 {
 	"use strict";
+
+
+	
+
+
 
 	/* 
 
@@ -434,3 +440,17 @@ $(document).ready(function()
 	}
 });
 
+function sendMail() 
+    {   
+        var name = $("#contact_form_name").val();
+        var email = $("#contact_form_email").val(); 
+        var subject = $("#contact_form_subject").val();
+        var message = $("#contact_form_message").val();
+        var mailMessage = "Hello,\r\nI am " + name + " would like to request the following: \r\n" + message;
+        
+        $myform = $('#myform');
+        
+        $myform.prop ('action','mailto:'+ email + '?subject=' + subject + '&body=' + encodeURIComponent(mailMessage));
+        
+        $myform.submit();
+    }

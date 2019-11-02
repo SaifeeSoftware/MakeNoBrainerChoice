@@ -31,11 +31,15 @@
 $(document).ready(function() {
     "use strict";
 
+   
+
     /* 
 
     1. Vars and Inits
 
     */
+
+   
 
     var menuActive = false;
     var header = $('.header');
@@ -888,3 +892,4 @@ $(document).ready(function() {
         }
     }
 });
+
