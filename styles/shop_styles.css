@@ -2364,6 +2364,6 @@ select option {
     color: #0d82d3;
 }
 
-#slider-range .ui-slider .ui-slider-handle{
+#slider-range.ui-slider .ui-slider-handle{
     width: 15px;
     }

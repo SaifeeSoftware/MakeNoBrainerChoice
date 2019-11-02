@@ -21,13 +21,13 @@ $(document).ready(function()
 	1. Vars and Inits
 
 	*/
-
+	
 	var menuActive = false;
 	var header = $('.header');
 
 	setHeader();
 
-	initCustomDropdown();
+	//initCustomDropdown();
 	initPageMenu();
 
 	$(window).on('resize', function()
@@ -139,6 +139,7 @@ $(document).ready(function()
 
 	function initPageMenu()
 	{
+		
 		if($('.page_menu').length && $('.page_menu_content').length)
 		{
 			var menu = $('.page_menu');
