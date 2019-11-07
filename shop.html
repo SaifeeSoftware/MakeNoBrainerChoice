@@ -198,6 +198,13 @@
                                     <div id="slider-range" class="slider_range"></div>
                                     <p>Range: </p>
                                     <p><input type="text" id="amount" class="amount" readonly style="border:0; font-weight:bold;"></p>
+                                    <br><br>
+
+                                    <span>Min
+                                        <input type="number" id="price-min" class="price-min" min="0" max="10000" required oninput="validity.valid||(value='');">Max
+                                        <input type="number" id="price-max" class="price-max" min="0" max="10000" required oninput="validity.valid||(value='');">
+                                    </span>
+                                    
                                 </div>
                             </div>
                             <!-- <div class="sidebar_section">
@@ -1542,7 +1549,7 @@
             </div>
         </div>
     
-
+        
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="styles/bootstrap4/popper.js"></script>
     <script src="styles/bootstrap4/bootstrap.min.js"></script>
@@ -1555,8 +1562,12 @@
     <script src="plugins/easing/easing.js"></script>
     <script src="plugins/Isotope/isotope.pkgd.min.js"></script>
     <script src="plugins/jquery-ui-1.12.1.custom/jquery-ui.js"></script>
-    <script src="plugins/parallax-js-master/parallax.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js" integrity="sha256-AAhU14J4Gv8bFupUUcHaPQfvrdNauRHMt+S4UVcaJb0=" crossorigin="anonymous"></script>
+   <script src="plugins/parallax-js-master/parallax.min.js"></script>
     <script src="js/shop_custom.js"></script>
+
+    
 
     
 </body>

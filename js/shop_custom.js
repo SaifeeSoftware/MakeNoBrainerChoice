@@ -402,6 +402,7 @@ $(document).ready(function() {
                 });
             });
         }
+        $('#slider-range').draggable();
     }
 
     /* 
