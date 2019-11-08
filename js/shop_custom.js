@@ -37,6 +37,9 @@ $(document).ready(function() {
     initBrandsSlider();
     initIsotope();
     initPriceSlider();
+  
+    
+
     initFavs();
     setCategory();
 
@@ -380,8 +383,25 @@ $(document).ready(function() {
                 values: [0, 10000],
                 slide: function(event, ui) {
                     $("#amount").val("₹" + ui.values[0] + " - ₹" + ui.values[1]);
+                    $("#MinimumPrice").val(ui.values[0]);
+                    $("#MaximumPrice").val(ui.values[1]);																			
                 }
             });
+            $("#MinimumPrice").val($("#slider-range").slider("values", 0));
+            $("#MaximumPrice").val($("#slider-range1").slider("values", 1));
+        
+            //Change slider value from textbox 
+           $("#MinimumPrice").on('change', function () {
+        var value = $("#MinimumPrice").val();
+        console.log(value);
+        $("#slider-range").slider('values', 0, value);
+        });
+        $("#MaximumPrice").on('change', function () {
+        var value = $("#MaximumPrice").val();
+        console.log(value);
+        $("slider-range").slider('values', 1, value);
+        });
+           
 
             $("#amount").val("₹" + $("#slider-range").slider("values", 0) + " - ₹" + $("#slider-range").slider("values", 1));
             $('.ui-slider-handle').on('mouseup', function() {
@@ -401,10 +421,16 @@ $(document).ready(function() {
                     }
                 });
             });
+
+            
+
         }
+
+        
         $('#slider-range').draggable();
     }
 
+     
     /* 
 
 	9. Init Favorites
@@ -422,3 +448,4 @@ $(document).ready(function() {
         }
     }
 });
+
