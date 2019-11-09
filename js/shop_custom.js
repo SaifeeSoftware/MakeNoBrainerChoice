@@ -48,7 +48,7 @@ $(document).ready(function() {
     });
 
     function setCategory() {
-        debugger;
+        
         var vars = [],
             hash;
         var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
@@ -376,7 +376,7 @@ $(document).ready(function() {
 	*/
 
     function initPriceSlider() {
-        debugger;
+        
         if ($("#slider-range").length) {
             $("#slider-range").slider({
                 range: true,
@@ -384,7 +384,7 @@ $(document).ready(function() {
                 max: 10000,
                 values: [0, 10000],
                 slide: function(event, ui) {
-                    debugger;
+                   
                     $("#amount").val("₹" + ui.values[0] + " - ₹" + ui.values[1]);
                     $("#MinimumPrice").val(ui.values[0]);
                     $("#MaximumPrice").val(ui.values[1]);											
@@ -408,25 +408,25 @@ $(document).ready(function() {
             filterProduct();
             });
 
-            debugger;
+           
             $("#amount").val("₹" + $("#slider-range").slider("values", 0) + " - ₹" + $("#slider-range").slider("values", 1));
             $('.ui-slider-handle').on('mouseup', function() {
-                debugger;
+                
                 filterProduct();
             });
         }
-        debugger;
+        
         $('#slider-range').draggable();
     }
     function filterProduct(){
         $('.product_grid').isotope({
             filter: function() {
-                debugger;
+               
                 var priceRange = $('#amount').val();
                 var priceMin = parseFloat(priceRange.split('-')[0].replace('₹', ''));
                 var priceMax = parseFloat(priceRange.split('-')[1].replace('₹', ''));
                 var itemPrice = $(this).find('.product_price').clone().children().remove().end().text().replace('₹', '');
-                debugger;
+                
                 return (itemPrice > priceMin) && (itemPrice < priceMax);
             },
             
