@@ -247,6 +247,10 @@
     .footer_col:not(:last-child) {
         margin-bottom: 40px;
     }
+
+    .blog_post {
+        width: calc((100% - 30px) / 2);
+    }
 }
 
 
@@ -309,6 +313,9 @@
     }
     .image_list li {
         height: 160px;
+    }
+    .blog_post {
+        width: 100%;
     }
 }
 
@@ -579,6 +586,13 @@
     .logos {
         margin-top: 30px;
     }
+    .blog_text {
+        font-size: 16px;
+    }
+    .single_post_quote {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
 }
 
 
@@ -594,8 +608,11 @@
 ************/
 
 @media only screen and (max-width: 480px) {
-    .product_item {
-        width: 50%;
+    .single_post_title {
+        font-size: 24px;
+    }
+    .single_post_text p {
+        font-size: 14px;
     }
 }
 
