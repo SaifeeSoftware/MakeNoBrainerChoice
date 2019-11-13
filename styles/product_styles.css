@@ -2299,6 +2299,8 @@ select option {
 
 .single_post_text {
     margin-top: 33px;
+     
+
 }
 
 .single_post_text p {
@@ -2309,7 +2311,7 @@ select option {
 }
 
 .single_post_text p:not(:first-of-type) {
-    margin-top: 42px;
+    margin-top: 20px;
 }
 
 .single_post_quote {
