@@ -2966,14 +2966,9 @@ select option {
     padding: 25px;
 }
 
-.trends_image {
+.trends_image img {
     width: 100%;
     height: 212px;
-}
-
-.trends_image img {
-    width: auto !important;
-    max-width: 100% !important;
 }
 
 .trends_category a {

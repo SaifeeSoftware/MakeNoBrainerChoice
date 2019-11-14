@@ -56,22 +56,21 @@ $(document).ready(function() {
     arrivalsSliderZIndex();
     bestsellersSlider();
     initTabs();
-    initTrendsSlider('#trends_lovedCategory');
-    initTrendsSlider('#trends_PersonalCategory');
-    initTrendsSlider('#trends_NewBornCategory');
-    initTrendsSlider('#trends_bestInFitness');
-    initTrendsSlider('#trends_officeDesk');
-    initTrendsSlider('#trends_mobileAcessories');
-    initTrendsSlider('#trends_bestInCategory');
 
-
-
-    initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
     initTimer();
     populateDealSlider();
     populateTopProductsSlider();
+    populateProductSlider("Best Gifts for Loved Ones", "#trends_lovedCategory", "#bestGiftSlider");
+    populateProductSlider("Best Personalized Gifts", '#trends_PersonalCategory', "#bestPersonalGiftSlider");
+    populateProductSlider("Top Gifts For New Born Babies", '#trends_NewBornCategory', "#bestBabyGiftSlider");
+    populateProductSlider("Best In Fitness", '#trends_bestInFitness', "#bestFitnessGiftSlider");
+    populateProductSlider("Must Have On Office Desk", '#trends_officeDesk', "#bestOfficeGiftSlider");
+    populateProductSlider("Mobile Accessories", '#trends_mobileAcessories', "#bestMobileAccGiftSlider");
+    populateProductSlider("Best In Category", '#trends_bestInCategory', "#bestInCatGiftSlider");
+    populateReviewSlider();
+
     $(window).on('resize', function() {
         setHeader();
         featuredSliderZIndex();
@@ -948,4 +947,64 @@ $(document).ready(function() {
             initFeaturedSlider();
         }
     }
+
+    function populateProductSlider(cat, container, sliderItemContainer) {
+        var temp = ProductSlider;
+        var result = "";
+        var intermediate = "";
+        var dealcat = $.grep(jsonObject, function(v) {
+            return v.slider_cat === cat;
+        });
+        $.each(dealcat, function(index, value) {
+            intermediate = temp.replace(/{page_link}/g, value["page_link"])
+                .replace(/{title}/g, value["title"])
+                .replace(/{main_img_src}/g, value["main_img_src"])
+                .replace(/{cat}/g, value["main_cat"])
+                .replace(/{price}/g, value["price"]);
+            if (value["discount"] !== undefined) {
+                intermediate = intermediate.replace(/{product_mark}/g, "{product_mark} discount")
+                    .replace(/{discount}/g, value["discount"]);
+            } else {
+                intermediate = intermediate.replace(/{discount}/g, "");
+            }
+            if (value["age"] === "new") {
+                intermediate = intermediate.replace(/{product_mark}/g, "is_new")
+                    .replace(/{age}/g, value["age"]);
+
+            } else {
+                intermediate = intermediate.replace(/{product_mark}/g, "")
+                    .replace(/{age}/g, "");
+            }
+            result += intermediate;
+        });
+        //Remove loading image
+        $(sliderItemContainer + " .loader").remove();
+        if (result !== "") {
+            $(sliderItemContainer).append(result);
+            // Init deal slider
+            initTrendsSlider(container);
+        }
+    }
+
+    function populateReviewSlider() {
+        var temp = ReviewSliderTemplate;
+        var result = "";
+        var dealcat = $.grep(jsonObject, function(v) {
+            return v.isLatest === true;
+        });
+        $.each(dealcat, function(index, value) {
+            result += temp.replace(/{page_link}/g, value["page_link"])
+                .replace(/{title}/g, value["title"])
+                .replace(/{main_img_src}/g, value["main_img_src"])
+                .replace(/{short_desc}/g, value["short_desc"]);
+        });
+        //Remove loading image
+        $("#latestReviewSlider .loader").remove();
+        if (result !== "") {
+            $("#latestReviewSlider").append(result);
+            // Init deal slider
+            initReviewsSlider();
+        }
+    }
+
 });

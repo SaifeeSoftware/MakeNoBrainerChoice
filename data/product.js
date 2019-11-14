@@ -52,6 +52,7 @@ var jsonObject = [{
         "price": "374",
         "buy_link": "https://www.amazon.in/ASIAN-Shoes-Wonder-13-Grey-Firozi/dp/B01MXNVPUM/ref=as_li_ss_il?_encoding=UTF8&refRID=H6N11BADPS06A2M3DBCR&linkCode=li2&tag=thebestone0a-21&linkId=61394c725bc297f0cde575cbee0d67ac&language=en_IN",
         "slider_cat": "Best In Fitness 2019",
+        "isLatest": true,
         "meta_tag_keyword": "Boxing shoes, Football shoes, Cricket shoes, Running shoes, Durable",
         "meta_tag_desc": "ASIAN Shoes Wonder-13 Grey Firozi Mesh Shoes is an item of footwear intended to protect and comfort the human foot.",
         "related": [
@@ -263,6 +264,7 @@ var jsonObject = [{
         "slider_cat": "Must Have On Office Desk",
         "meta_tag_keyword": "Office Accessories, Pen, Pencil, Rubber, Sharpner, Stationary Kits",
         "meta_tag_desc": "Desktop Organizer is used for putting pen/pencil, etc.",
+        "isLatest": true,
         "related": [
             "Wooden Calendar",
             "Visiting Card Holder",
@@ -324,6 +326,7 @@ var jsonObject = [{
         "price": "429",
         "buy_link": "https://www.amazon.in/Kore-KORE-DM-HEXA-COMBO16-Dumbbells-Kits/dp/B078MYV7M5/ref=as_li_ss_il? _encoding=UTF8&refRID=TEVDKEK685Y992TSC51Q&linkCode=li2&tag=thebestone0a-21&linkId=7232b1bb5a876645a5eeab8efa7d85d5&language=en_IN",
         "slider_cat": "Best In Fitness",
+        "isLatest": true,
         "meta_tag_keyword": "Dumbbells Kits, Excercise, Gym, Workout, Best Product",
         "meta_tag_desc": "Dumbbells Kits used for doing excercise.",
         "related": [
@@ -979,6 +982,7 @@ var jsonObject = [{
         "price": "155",
         "buy_link": "https://www.amazon.in/Vector-X-Skipping-Rope-Black/dp/B01MTKAAQV/ref=as_li_ss_il? _encoding=UTF8&refRID=WX7K8SPMHPXAYT50MX47&linkCode=li2&tag=thebestone0a-21&linkId=94cb169e55e694a061abd2b8f134387d&language=en_IN",
         "slider_cat": "Best In Fitness",
+        "isLatest": true,
         "meta_tag_keyword": "Skipping Rope, Yoga, Workout, Durable, Best Product, Jump rope for weight loss",
         "meta_tag_desc": "Skipping Rope is used for doing excercise.",
         "related": [
@@ -1020,6 +1024,7 @@ var jsonObject = [{
         "price": "2298",
         "buy_link": "https://www.amazon.in/Mi-Smart-Band-4-Black/dp/B07WLL998K/ref=as_li_ss_il? _encoding=UTF8&psc=1&refRID=0540KSD2GA2JC3367ZDN&linkCode=li2&tag=thebestone0a-21&linkId=e7583e7ce6e6bf7e9974124d35d8fbc4&language=en_IN",
         "slider_cat": "Best In Fitness",
+        "isLatest": true,
         "meta_tag_keyword": "Smart Band, Fitness, Workout, Smart Techonology, Get smart band, Durable",
         "meta_tag_desc": "Mi Smart Band is used for tracking fitness and heart beat with smart techonology.",
         "related": [
@@ -1169,7 +1174,7 @@ var jsonObject = [{
         "age": "new",
         "price": "1699",
         "buy_link": "https://www.amazon.in/JBL-Portable-Wireless-Bluetooth-Speaker/dp/B00TFGWAA8/ref=as_li_ss_il? _encoding=UTF8&pd_rd_i=B00TFGWAA8&pd_rd_r=45452f5a-2645-4da8-9256- 837f8ebf42b0&pd_rd_w=SXT7P&pd_rd_wg=c0rqi&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=X39VKFZWPGZTGTA6XR54&psc=1&refRID=X39VKFZWPGZTGTA6XR54&linkCode=li2&tag=thebestone0a-21&linkId=8fc1ffe7d7011057828bbe7a431ce9e8&language=en_IN",
-        "slider_cat": "Must Have On Office Desk",
+        "slider_cat": "Mobile Accessories",
         "meta_tag_keyword": "Wireless Speakers, Music, Mp3 Player, Durable, Best Product, Best in Category",
         "meta_tag_desc": "JBL Wireless Speakers is used for listening music.",
         "related": [
@@ -1276,6 +1281,7 @@ var jsonObject = [{
         "price": "713",
         "buy_link": "https://www.amazon.in/Strauss-Yoga-Mat-6mm-Blue/dp/B014PIGM4K/ref=as_li_ss_il? crid=ZLZ9YKJVG65U&dchild=1&keywords=best+seller+fitness&psc=1&qid=1571286830&sprefix=Bestseller +fit,aps,400&sr=8-32&linkCode=li2&tag=thebestone0a-21&linkId=c59a2d00a95fb2035d2a27e7a5056ecd&language=en_IN",
         "slider_cat": "Best In Fitness",
+        "isLatest": true,
         "meta_tag_keyword": "Yoga, Mat, Workout, Excercise, Durable, Best Product",
         "meta_tag_desc": "Yoga mats are specially fabricated mats used to prevent hands and feet slipping during asana practice in modern yoga as exercise.",
         "related": [

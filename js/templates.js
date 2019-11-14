@@ -69,3 +69,39 @@ var TopProductSliderTemplate = '   <div class="featured_slider_item">  ' +
     '                                               </ul>  ' +
     '                                           </div>  ' +
     '                                      </div>  ';
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+var ProductSlider = '   <div class="owl-item">  ' +
+    '                                   <div class="trends_item {product_mark}">  ' +
+    '                                       <div class="trends_image d-flex flex-column align-items-center justify-content-center">  ' +
+    '                                           <a href="{page_link}" title="{title}"><img src="{main_img_src}" alt="{title}"></a>  ' +
+    '                                       </div>  ' +
+    '                                       <div class="trends_content">  ' +
+    '                                           <div class="trends_category"><a href="#">{cat}</a></div>  ' +
+    '                                           <div class="trends_info clearfix">  ' +
+    '                                               <div class="trends_name"><a href="{page_link}" title="{title}">{title}</a></div>  ' +
+    '                                               <div class="trends_price">₹ {price}</div>  ' +
+    '                                           </div>  ' +
+    '                                       </div>  ' +
+    '                                       <ul class="trends_marks">  ' +
+    '                                           <li class="trends_mark trends_discount">{discount}</li>  ' +
+    '                                           <li class="trends_mark trends_new">{age}</li>  ' +
+    '                                       </ul>  ' +
+    '                                   </div>  ' +
+    '                              </div>  ';
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var ReviewSliderTemplate = '   <div class="owl-item">  ' +
+    '                                   <div class="review d-flex flex-row align-items-start justify-content-start">  ' +
+    '                                       <div>  ' +
+    '                                           <div class="review_image"><img title="{title}" src="{main_img_src}" alt="{title}"></div>  ' +
+    '                                       </div>  ' +
+    '                                       <div class="review_content">  ' +
+    '                                           <div class="review_name"><a href="{page_link}">{title}</a></div>  ' +
+    '                                           <div class="review_text">  ' +
+    '                                               <p>{short_desc}</p>  ' +
+    '                                           </div>  ' +
+    '                                       </div>  ' +
+    '                                   </div>  ' +
+    '                              </div>  ';
