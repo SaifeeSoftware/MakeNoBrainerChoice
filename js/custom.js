@@ -31,7 +31,7 @@
 $(document).ready(function() {
     "use strict";
 
-   
+
 
     /* 
 
@@ -39,18 +39,15 @@ $(document).ready(function() {
 
     */
 
-   
+
 
     var menuActive = false;
     var header = $('.header');
 
     setHeader();
-
     // initCustomDropdown();
     initPageMenu();
-    initDealsSlider();
     initTabLines();
-    initFeaturedSlider();
     featuredSliderZIndex();
     initPopularSlider();
     initBanner2Slider();
@@ -66,14 +63,15 @@ $(document).ready(function() {
     initTrendsSlider('#trends_officeDesk');
     initTrendsSlider('#trends_mobileAcessories');
     initTrendsSlider('#trends_bestInCategory');
-    
-    
-    
+
+
+
     initReviewsSlider();
     initViewedSlider();
     initBrandsSlider();
     initTimer();
-
+    populateDealSlider();
+    populateTopProductsSlider();
     $(window).on('resize', function() {
         setHeader();
         featuredSliderZIndex();
@@ -891,5 +889,63 @@ $(document).ready(function() {
             });
         }
     }
-});
 
+    function populateDealSlider() {
+        var temp = DealSliderTemplate;
+        var result = "";
+        var dealcat = $.grep(jsonObject, function(v) {
+            return v.slider_cat === "Deals of the Day";
+        });
+        $.each(dealcat, function(index, value) {
+            result += temp.replace(/{page_link}/g, value["page_link"])
+                .replace(/{title}/g, value["title"])
+                .replace(/{main_img_src}/g, value["main_img_src"])
+                .replace(/{cat}/g, value["main_cat"])
+                .replace(/{price}/g, value["price"]);
+        });
+        //Remove loading image
+        $(".deals .loader").remove();
+        if (result !== "") {
+            $("#dealSliderMain").append(result);
+            // Init deal slider
+            initDealsSlider();
+        }
+    }
+
+    function populateTopProductsSlider() {
+        var temp = TopProductSliderTemplate;
+        var result = "";
+        var intermediate = "";
+        var dealcat = $.grep(jsonObject, function(v) {
+            return v.slider_cat === "Top 10 Gifts";
+        });
+        $.each(dealcat, function(index, value) {
+            intermediate = temp.replace(/{page_link}/g, value["page_link"])
+                .replace(/{title}/g, value["title"])
+                .replace(/{main_img_src}/g, value["main_img_src"])
+                .replace(/{price}/g, value["price"]);
+            if (value["discount"] !== undefined) {
+                intermediate = intermediate.replace(/{product_mark}/g, "{product_mark} discount")
+                    .replace(/{discount}/g, value["discount"]);
+            } else {
+                intermediate = intermediate.replace(/{discount}/g, "");
+            }
+            if (value["age"] === "new") {
+                intermediate = intermediate.replace(/{product_mark}/g, "is_new")
+                    .replace(/{age}/g, value["age"]);
+
+            } else {
+                intermediate = intermediate.replace(/{product_mark}/g, "")
+                    .replace(/{age}/g, "");
+            }
+            result += intermediate;
+        });
+        //Remove loading image
+        $("#featuredProduct .loader").remove();
+        if (result !== "") {
+            $("#featuredProduct").append(result);
+            // Init deal slider
+            initFeaturedSlider();
+        }
+    }
+});
