@@ -1329,7 +1329,6 @@ select option {
 .shop {
     background: #FFFFFF;
     padding-top: 80px;
-   
 }
 
 .shop_content {
@@ -1481,15 +1480,9 @@ select option {
     background: #e5e5e5;
 }
 
-.product_image {
+.product_image img {
     width: 100%;
     height: 115px;
-}
-
-.product_image img {
-    display: block;
-    position: relative;
-    max-width: 100%;
 }
 
 .product_content {
@@ -2364,6 +2357,28 @@ select option {
     color: #0d82d3;
 }
 
-#slider-range.ui-slider .ui-slider-handle{
+#slider-range.ui-slider .ui-slider-handle {
     width: 15px;
+}
+
+.loader {
+    border: 10px solid #f3f3f3;
+    border-top-color: rgb(243, 243, 243);
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top: 10px solid #3498db;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+    margin: 10% auto;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
     }
+    100% {
+        transform: rotate(360deg);
+    }
+}

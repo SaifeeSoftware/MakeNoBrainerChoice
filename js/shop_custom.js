@@ -35,10 +35,9 @@ $(document).ready(function() {
     initPageMenu();
     initViewedSlider();
     initBrandsSlider();
-    initIsotope();
-    initPriceSlider();
-  
-    
+
+    populateProductList();
+
 
     initFavs();
     setCategory();
@@ -48,7 +47,7 @@ $(document).ready(function() {
     });
 
     function setCategory() {
-        
+
         var vars = [],
             hash;
         var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
@@ -58,7 +57,7 @@ $(document).ready(function() {
             vars[hash[0]] = hash[1];
         }
         var urlcat = decodeURIComponent(vars["cat"]).toLowerCase();
-        
+
         var search = $(".sidebar_categories li a").filter(function() {
             return $(this).text().toLowerCase().indexOf(urlcat) >= 0;
         }).first();
@@ -376,7 +375,7 @@ $(document).ready(function() {
 	*/
 
     function initPriceSlider() {
-        
+
         if ($("#slider-range").length) {
             $("#slider-range").slider({
                 range: true,
@@ -384,52 +383,53 @@ $(document).ready(function() {
                 max: 10000,
                 values: [0, 10000],
                 slide: function(event, ui) {
-                   
+
                     $("#amount").val("₹" + ui.values[0] + " - ₹" + ui.values[1]);
                     $("#MinimumPrice").val(ui.values[0]);
-                    $("#MaximumPrice").val(ui.values[1]);											
+                    $("#MaximumPrice").val(ui.values[1]);
                 }
             });
 
-           //Change slider value from textbox 
-           $("#MinimumPrice").on('change', function () {
-            var value = $("#MinimumPrice").val();
-            console.log(value);
-            $("#slider-range").slider('values', 0, value);
-            $("#amount").val("₹" + $("#MinimumPrice").val() + " - ₹" + $("#MaximumPrice").val());
-            filterProduct();
+            //Change slider value from textbox 
+            $("#MinimumPrice").on('change', function() {
+                var value = $("#MinimumPrice").val();
+                console.log(value);
+                $("#slider-range").slider('values', 0, value);
+                $("#amount").val("₹" + $("#MinimumPrice").val() + " - ₹" + $("#MaximumPrice").val());
+                filterProduct();
             });
 
-            $("#MaximumPrice").on('change', function () {
-            var value = $("#MaximumPrice").val();
-            console.log(value);
-            $("#slider-range").slider('values', 1, value);
-            $("#amount").val("₹" + $("#MinimumPrice").val() + " - ₹" + $("#MaximumPrice").val());
-            filterProduct();
+            $("#MaximumPrice").on('change', function() {
+                var value = $("#MaximumPrice").val();
+                console.log(value);
+                $("#slider-range").slider('values', 1, value);
+                $("#amount").val("₹" + $("#MinimumPrice").val() + " - ₹" + $("#MaximumPrice").val());
+                filterProduct();
             });
 
-           
+
             $("#amount").val("₹" + $("#slider-range").slider("values", 0) + " - ₹" + $("#slider-range").slider("values", 1));
             $('.ui-slider-handle').on('mouseup', function() {
-                
+
                 filterProduct();
             });
         }
-        
+
         $('#slider-range').draggable();
     }
-    function filterProduct(){
+
+    function filterProduct() {
         $('.product_grid').isotope({
             filter: function() {
-               
+
                 var priceRange = $('#amount').val();
                 var priceMin = parseFloat(priceRange.split('-')[0].replace('₹', ''));
                 var priceMax = parseFloat(priceRange.split('-')[1].replace('₹', ''));
                 var itemPrice = $(this).find('.product_price').clone().children().remove().end().text().replace('₹', '');
-                
+
                 return (itemPrice > priceMin) && (itemPrice < priceMax);
             },
-            
+
             animationOptions: {
                 duration: 750,
                 easing: 'linear',
@@ -437,7 +437,7 @@ $(document).ready(function() {
             }
         });
     }
-     
+
     /* 
 
 	9. Init Favorites
@@ -454,5 +454,45 @@ $(document).ready(function() {
             });
         }
     }
-});
 
+    function populateProductList() {
+
+        var temp = ProductGalleryTemplate;
+        var result = "";
+        var intermediate = "";
+        $.each(jsonObject, function(index, value) {
+
+            intermediate = temp.replace(/{page_link}/g, value["page_link"])
+                .replace(/{title}/g, value["title"])
+                .replace(/{main_img_src}/g, value["main_img_src"])
+                .replace(/{price}/g, value["price"]);
+            if (value["sub_cat"] !== undefined) {
+                intermediate = intermediate.replace(/{cat}/g, value["sub_cat"])
+            } else {
+                intermediate = intermediate.replace(/{cat}/g, value["main_cat"])
+            }
+            if (value["discount"] !== undefined) {
+                intermediate = intermediate.replace(/{product_mark}/g, "{product_mark} discount")
+                    .replace(/{discount}/g, value["discount"]);
+            } else {
+                intermediate = intermediate.replace(/{discount}/g, "");
+            }
+            if (value["age"] === "new") {
+                intermediate = intermediate.replace(/{product_mark}/g, "is_new")
+                    .replace(/{age}/g, value["age"]);
+
+            } else {
+                intermediate = intermediate.replace(/{product_mark}/g, "")
+                    .replace(/{age}/g, "");
+            }
+            result += intermediate;
+        });
+        //Remove loading image
+        $(".product_grid .loader").remove();
+        if (result !== "") {
+            $(".product_grid").append(result);
+            initIsotope();
+            initPriceSlider();
+        }
+    }
+});

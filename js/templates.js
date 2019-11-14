@@ -105,3 +105,29 @@ var ReviewSliderTemplate = '   <div class="owl-item">  ' +
     '                                       </div>  ' +
     '                                   </div>  ' +
     '                              </div>  ';
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var BlogPostTemplate = '    <div class="blog_post">  ' +
+    '                               <div class="blog_image"> <img src="{main_img_src}" alt="{title}"></div>  ' +
+    '                               <div class="blog_text">{title}</div>  ' +
+    '                               <div class="blog_button"><a href="{page_link}" title="{title}">Continue Reading</a></div>  ' +
+    '                          </div>  ';
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+var ProductGalleryTemplate = '    <div class="product_item {product_mark}">  ' +
+    '                                       <div class="product_border"></div>  ' +
+    '                                       <div class="product_image d-flex flex-column align-items-center justify-content-center"><a title="{title}" href="{page_link}" tabindex="0"><img src="{main_img_src}" alt="{title}"></a></div>  ' +
+    '                                       <div class="product_content">  ' +
+    '                                           <div class="product_price">₹ {price}</div>  ' +
+    '                                           <div class="product_cat hide">{cat}</div>  ' +
+    '                                           <div class="product_name">  ' +
+    '                                               <div><a href="{page_link}" tabindex="0" title="{title}">{title}</a></div>  ' +
+    '                                           </div>  ' +
+    '                                       </div>  ' +
+    '     ' +
+    '                                       <ul class="product_marks">  ' +
+    '                                           <li class="product_mark product_discount">{discount}</li>  ' +
+    '                                           <li class="product_mark product_new">{age}</li>  ' +
+    '                                       </ul>  ' +
+    '                                  </div>  ';
