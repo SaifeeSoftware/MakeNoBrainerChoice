@@ -35,8 +35,8 @@ var jsonObject = [{
         "meta_tag_desc": "Stretch openings at the upper arm provide an easy way to pull on the Sleeves.",
         "related": [
             "3 in 1 Golden Gift",
-            "6 in 1 keychain",
-            "Lens mug"
+            "6 in 1 Keychain",
+            "Lens Mug"
         ]
     },
     {
@@ -160,8 +160,8 @@ var jsonObject = [{
         "meta_tag_desc": "Classic Bottle Shaker has a classic design which includes a lid on the mouth of the bottle which opens with just a push from the bottom and a mixer ball wire whisk which properly mixes the contents in the bottle.",
         "related": [
             "Arm Sleeves",
-            "6 in 1 keychain",
-            "Lens mug"
+            "6 in 1 Keychain",
+            "Lens Mug"
         ]
     },
     {
@@ -464,7 +464,7 @@ var jsonObject = [{
         ]
     },
     {
-        "title": "3 in 1 Golden gift set",
+        "title": "3 in 1 Golden Gift",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/51xeABYsyWL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/51xeABYsyWL._SL160_.jpg",
         "page_link": "product/product_golden",
@@ -479,9 +479,9 @@ var jsonObject = [{
         "meta_tag_keyword": "Golden, Pen, Card Holder, Watch, Best Product",
         "meta_tag_desc": "Golden gifts set come with three a pen, a watch and a metallic card holder.",
         "related": [
-            "Lens mug",
+            "Lens Mug",
             "Arm Sleeves",
-            "6 in 1 keychain"
+            "6 in 1 Keychain"
         ]
     },
     {

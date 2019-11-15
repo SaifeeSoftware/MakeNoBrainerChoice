@@ -131,3 +131,70 @@ var ProductGalleryTemplate = '    <div class="product_item {product_mark}">  ' +
     '                                           <li class="product_mark product_new">{age}</li>  ' +
     '                                       </ul>  ' +
     '                                  </div>  ';
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+var ProductDetailTemplate = '<div class="single_product">' +
+    '               <div class="container">  ' +
+    '                   <div class="row">  ' +
+    '                       <!-- Images -->  ' +
+    '                       <div class="col-lg-2 order-lg-1 order-2">  ' +
+    '                           <ul class="image_list">  ' +
+    '                               <li data-image="{main_img_src}"><img src="{main_img_src}" alt="{title}"></li>  ' +
+    '                           </ul>  ' +
+    '                       </div>  ' +
+    '                       <!-- Selected Image -->  ' +
+    '                       <div class="col-lg-5 order-lg-2 order-1">  ' +
+    '                           <div class="image_selected"><img src="{main_img_src}" alt="{title}"></div>  ' +
+    '                       </div>  ' +
+    '                       <!-- Description -->  ' +
+    '                       <div class="col-lg-5 order-3">  ' +
+    '                           <div class="product_description">  ' +
+    '                               <div class="product_category">{cat}</div>  ' +
+    '                               <div class="product_name">{title}</div>  ' +
+    '                               <div class="product_text">  ' +
+    '                                   {short_desc} ' +
+    '                               </div>  ' +
+    '                               <div class="order_info d-flex flex-row">  ' +
+    '                                   <form action="#">  ' +
+    '                                       <div class="clearfix" style="z-index: 1000;">  ' +
+    '                                           <div class="product_price">₹ {price}</div>  ' +
+    '                                           <div class="button_container">  ' +
+    '                                               <button type="button" class="button cart_button"><a href="{buy_link}" target="_blank" title="Checkout at Amazon.in">Checkout at Amazon.in</a></button>  ' +
+    '                                           </div>  ' +
+    '                                   </form>  ' +
+    '                                   </div>  ' +
+    '                               </div>  ' +
+    '                           </div>  ' +
+    '                       </div>  ' +
+    '                   </div>  ' +
+    '               </div>  ' +
+    '               <div class="single_post">  ' +
+    '                   <div class="container">  ' +
+    '                       <div class="row">  ' +
+    '                           <div class="col-lg-12">  ' +
+    '                               <div class="single_post_text">  ' +
+    '                                   {long_desc}' +
+    '                               </div>  ' +
+    '                           </div>  ' +
+    '                       </div>  ' +
+    '                   </div>  ' +
+    '               </div>  ' +
+    '               <div class="blog">  ' +
+    '                   <div class="container">  ' +
+    '                       <div class="row">  ' +
+    '                           <div class="col">  ' +
+    '                               <div class="blog_posts d-flex flex-row align-items-start justify-content-between">  ' +
+    '                                        {related_blog}' +
+    '                                   </div>  ' +
+    '                               </div>  ' +
+    '                           </div>  ' +
+    '                       </div>  ' +
+    '                   </div>  ' +
+    '              </div>  ';
+
+var RelatedBlog = '<div class="blog_post"> ' +
+    '                                       <div class="blog_image"><img src="{main_img_src}" alt="{title}"></div>  ' +
+    '                                       <div class="blog_text">{title} ...</div>  ' +
+    '                                       <div class="blog_button"><a title="{title}" href="{page_link}">Continue Reading</a></div>  ' +
+    '                                   </div>';
