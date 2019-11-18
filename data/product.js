@@ -15,7 +15,7 @@ var jsonObject = [{
         "meta_tag_desc": "LED Tea Light Candles comes with many Candles used in all ocassion.",
         "related": [
             "Glass T-Light Holder",
-            "Brass Silver Plated",
+            "Brass Silver Plated Bowls",
             "Ceramic Aroma Burner"
         ]
     },
@@ -646,7 +646,7 @@ var jsonObject = [{
         "meta_tag_keyword": "Lens, Mug, Coffee Mug, Good product, Durable",
         "meta_tag_desc": "Lens Mug is a cool and stylish coffee mug.",
         "related": [
-            "6 in 1 keychain",
+            "6 in 1 Keychain",
             "Arm Sleeves",
             "3 in 1 Golden Gift"
         ]
