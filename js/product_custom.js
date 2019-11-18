@@ -361,7 +361,7 @@ $(document).ready(function() {
         return decodeURIComponent(vars[querystring]).toLowerCase();
     }
     (function() {
-        debugger;
+
         var url = window.location.pathname;
         var qs = getQueryString(window.location.href, "name");
         var temp = ProductDetailTemplate;
@@ -369,7 +369,6 @@ $(document).ready(function() {
         var blogresult = "";
         var result = "";
         var dealcat = $.grep(jsonObject, function(v) {
-            debugger;
             var plink = getQueryString(v.page_link, "name");
             return plink === qs;
         });
