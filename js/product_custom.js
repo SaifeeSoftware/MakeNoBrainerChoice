@@ -348,14 +348,30 @@ $(document).ready(function() {
             });
         });
     }
-    (function() {
 
+    function getQueryString(url, querystring) {
+        var vars = [],
+            hash;
+        var hashes = url.slice(url.indexOf('?') + 1).split('&');
+        for (var i = 0; i < hashes.length; i++) {
+            hash = hashes[i].split('=');
+            vars.push(hash[0]);
+            vars[hash[0]] = hash[1];
+        }
+        return decodeURIComponent(vars[querystring]).toLowerCase();
+    }
+    (function() {
+        debugger;
+        var url = window.location.pathname;
+        var qs = getQueryString(window.location.href, "name");
         var temp = ProductDetailTemplate;
         var blogTemp = RelatedBlog;
         var blogresult = "";
         var result = "";
         var dealcat = $.grep(jsonObject, function(v) {
-            return v.title === $(".mainContainer").attr("data-product");
+            debugger;
+            var plink = getQueryString(v.page_link, "name");
+            return plink === qs;
         });
         $.each(dealcat, function(index, value) {
             result = temp.replace(/{page_link}/g, value["page_link"])
