@@ -589,7 +589,7 @@ var jsonObject = [{
         ]
     },
     {
-        "title": "Johnson's Baby Care Collection",
+        "title": "Johnson's Baby Care",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/517miBQpZpL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/517miBQpZpL._SL160_.jpg",
         "page_link": "/product/productdetail?name=john_baby",
@@ -929,7 +929,7 @@ var jsonObject = [{
         ]
     },
     {
-        "title": "Newnik Cozymat Soft, Water-Proof & Reusable Mat",
+        "title": "Reusable Mat",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41UuMDscjNL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41UuMDscjNL._SL160_.jpg",
         "page_link": "/product/productdetail?name=reusable_mat",
@@ -1184,7 +1184,7 @@ var jsonObject = [{
         ]
     },
     {
-        "title": "WonderKids 13 Piece Unisex Baby's Gift Set",
+        "title": "WonderKids 13 Piece",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/51MgxTcS7qL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/51MgxTcS7qL._SL160_.jpg",
         "page_link": "/product/productdetail?name=wonder_kids",
