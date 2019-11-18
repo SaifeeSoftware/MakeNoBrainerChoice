@@ -2382,3 +2382,8 @@ select option {
         transform: rotate(360deg);
     }
 }
+
+#MinimumPrice,
+#MaximumPrice {
+    width: 70px;
+}
