@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <!-- The jQuery library is a prerequisite for all jqSuite products -->
+    <script type="text/ecmascript" src="./js/jquery.min.js"></script>
+    <!-- We support more than 40 localizations -->
+    <script type="text/ecmascript" src="./js/grid.locale-en.js"></script>
+    <!-- This is the Javascript file of jqGrid -->
+    <script type="text/ecmascript" src="./js/jquery.jqGrid.min.js"></script>
+    <!-- A link to a Boostrap  and jqGrid Bootstrap CSS siles-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="./css/ui.jqgrid-bootstrap.css" />
+    <script>
+        $.jgrid.defaults.width = 780;
+        $.jgrid.defaults.responsive = true;
+        $.jgrid.defaults.styleUI = 'Bootstrap';
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/tinymce/4.1.5/tinymce.min.js"></script>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/tinymce/4.1.5/jquery.tinymce.min.js"></script>
+    <meta charset="utf-8" />
+    <title>jqGrid Loading Data - Dialogs - Edit, Add, Delete</title>
+</head>
+
+<body>
+    <div style="margin-left:20px">
+        <table id="jqGrid"></table>
+        <div id="jqGridPager"></div>
+        <button onclick="downloadUpdatedData();">Download File</button>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#jqGrid").jqGrid({
+                url: '/admin/data.json',
+                // we set the changes to be made at client side using predefined word clientArray
+                editurl: 'clientArray',
+                datatype: "json",
+                colModel: [{
+                    label: 'Title',
+                    name: 'title',
+                    width: 175,
+                    // key: true,
+                    editable: true,
+                    editrules: {
+                        required: true
+                    }
+                }, {
+                    label: 'Main Image',
+                    name: 'main_img_src',
+                    width: 180,
+                    editable: true // must set editable to true if you want to make the field editable
+                }, {
+                    label: 'Thumbnail Image',
+                    name: 'thumbnail_img_src',
+                    width: 170,
+                    editable: true
+                }, {
+                    label: 'Page link',
+                    name: 'page_link',
+                    width: 80,
+                    editable: true
+                }, {
+                    label: 'Short Desc',
+                    name: 'short_desc',
+                    width: 140,
+                    editable: true,
+                    edittype: "custom",
+                    editoptions: {
+                        custom_element: function(value, options) {
+                            var elm = $("<textarea></textarea>");
+                            elm.val(value);
+                            // give the editor time to initialize
+                            setTimeout(function() {
+                                try {
+                                    tinymce.remove("#" + options.id);
+                                } catch (ex) {}
+                                tinymce.init({
+                                    selector: "#" + options.id,
+                                    plugins: "link"
+                                });
+                            }, 50);
+                            return elm;
+                        },
+                        custom_value: function(element, oper, gridval) {
+                            var id;
+                            if (element.length > 0) {
+                                id = element.attr("id");
+                            } else if (typeof element.selector === "string") {
+                                var sels = element.selector.split(" "),
+                                    idSel = sels[sels.length - 1];
+                                if (idSel.charAt(0) === "#") {
+                                    id = idSel.substring(1);
+                                } else {
+                                    return "";
+                                }
+                            }
+                            if (oper === "get") {
+                                return tinymce.get(id).getContent({
+                                    format: "row"
+                                });
+                            } else if (oper === "set") {
+                                if (tinymce.get(id)) {
+                                    tinymce.get(id).setContent(gridval);
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    label: 'Long Desc',
+                    name: 'long_desc',
+                    width: 140,
+                    editable: true,
+                    edittype: "custom",
+                    editoptions: {
+                        custom_element: function(value, options) {
+                            var elm = $("<textarea></textarea>");
+                            elm.val(value);
+                            // give the editor time to initialize
+                            setTimeout(function() {
+                                try {
+                                    tinymce.remove("#" + options.id);
+                                } catch (ex) {}
+                                tinymce.init({
+                                    selector: "#" + options.id,
+                                    plugins: "link"
+                                });
+                            }, 50);
+                            return elm;
+                        },
+                        custom_value: function(element, oper, gridval) {
+                            var id;
+                            if (element.length > 0) {
+                                id = element.attr("id");
+                            } else if (typeof element.selector === "string") {
+                                var sels = element.selector.split(" "),
+                                    idSel = sels[sels.length - 1];
+                                if (idSel.charAt(0) === "#") {
+                                    id = idSel.substring(1);
+                                } else {
+                                    return "";
+                                }
+                            }
+                            if (oper === "get") {
+                                return tinymce.get(id).getContent({
+                                    format: "row"
+                                });
+                            } else if (oper === "set") {
+                                if (tinymce.get(id)) {
+                                    tinymce.get(id).setContent(gridval);
+                                }
+                            }
+                        }
+                    }
+                }, {
+                    label: 'Main category',
+                    name: 'main_cat',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Sub category',
+                    name: 'sub_cat',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Age',
+                    name: 'age',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Price',
+                    name: 'price',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Amazon buy link',
+                    name: 'buy_link',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Slider Cat',
+                    name: 'slider_cat',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Meta keywords',
+                    name: 'meta_tag_keyword',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Meta desc',
+                    name: 'meta_tag_desc',
+                    width: 140,
+                    editable: true
+                }, {
+                    label: 'Related',
+                    name: 'related',
+                    width: 140,
+                    editable: true
+                }],
+                sortname: 'slider_cat',
+                sortorder: 'asc',
+                loadonce: true,
+                viewrecords: true,
+                height: 500,
+                rowNum: 1000,
+                pager: "#jqGridPager"
+            });
+
+            $('#jqGrid').navGrid('#jqGridPager',
+                // the buttons to appear on the toolbar of the grid
+                {
+                    edit: true,
+                    add: true,
+                    del: true,
+                    search: true,
+                    refresh: false,
+                    view: false,
+                    position: "left",
+                    cloneToTop: false
+                },
+                // options for the Edit Dialog
+                {
+                    editCaption: "The Edit Dialog",
+                    recreateForm: true,
+                    checkOnUpdate: false,
+                    checkOnSubmit: true,
+                    closeAfterEdit: true,
+                    errorTextFormat: function(data) {
+                        return 'Error: ' + data.responseText
+                    }
+                },
+                // options for the Add Dialog
+                {
+                    closeAfterAdd: false,
+                    recreateForm: true,
+                    errorTextFormat: function(data) {
+                        return 'Error: ' + data.responseText
+                    }
+                },
+                // options for the Delete Dailog
+                {
+                    errorTextFormat: function(data) {
+                        return 'Error: ' + data.responseText
+                    }
+                });
+
+            function downloadFile(strData, strFileName, strMimeType) {
+                var D = document,
+                    A = arguments,
+                    a = D.createElement("a"),
+                    d = A[0],
+                    n = A[1],
+                    t = A[2] || "text/plain";
+
+                //build download link:
+                a.href = "data:" + strMimeType + "charset=utf-8," + escape(strData);
+
+
+                if (window.MSBlobBuilder) { // IE10
+                    var bb = new MSBlobBuilder();
+                    bb.append(strData);
+                    return navigator.msSaveBlob(bb, strFileName);
+                } /* end if(window.MSBlobBuilder) */
+
+
+
+                if ('download' in a) { //FF20, CH19
+                    a.setAttribute("download", n);
+                    a.innerHTML = "downloading...";
+                    D.body.appendChild(a);
+                    setTimeout(function() {
+                        var e = D.createEvent("MouseEvents");
+                        e.initMouseEvent("click", true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+                        a.dispatchEvent(e);
+                        D.body.removeChild(a);
+                    }, 66);
+                    return true;
+                }; /* end if('download' in a) */
+
+
+
+                //do iframe dataURL download: (older W3)
+                var f = D.createElement("iframe");
+                D.body.appendChild(f);
+                f.src = "data:" + (A[2] ? A[2] : "application/octet-stream") + (window.btoa ? ";base64" : "") + "," + (window.btoa ? window.btoa : escape)(strData);
+                setTimeout(function() {
+                    D.body.removeChild(f);
+                }, 333);
+                return true;
+            }
+            window.downloadUpdatedData = function() {
+                var localGridData = $("#jqGrid").jqGrid('getGridParam', 'data');
+                downloadFile(JSON.stringify(localGridData), 'filename.json', 'text/plain');
+            }
+        });
+    </script>
+</body>
+
+</html>
