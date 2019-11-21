@@ -1,717 +1,414 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://kyalu.in/</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/index</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Mobile%20Accessories</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Office%20Accessories</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Baby%20Product</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Clothing</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Food</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Health%20and%20Personal%20Care</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Home%20Appliances</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Home%20Decor</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Kitchen%20and%20Dining</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Personal</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Photo</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Sports%20and%20Fitness</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Tool</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/shop?cat=Travel</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blogs</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/contact</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_buyerdecisionprocess</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_handy_mini</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_skybags</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_milton_medical</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_travel_case</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_led_tea</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_glass</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_brassBowls</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_creamic</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_silver</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_color</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_handmade</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_mens</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_diwali</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_lens</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_keyChain</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_arm</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_golden</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_classics_bottle</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_photo_lamp</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wooden</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_crystal</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_photo_strip</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_magic_mug</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_bottle</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wooden_name</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_explosion_box</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wonder_kids</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_john_baby</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_mosquito_net</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_reusable_mat</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_baby%20carry%20bag</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wrapper_for_babies</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_himalaya_babycare</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_yoga_mat</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_skipping_rope</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_dumbells_kits</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_smart_band</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_asian_shoes</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wall_mounting_pushup</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_desktop_organizer</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wooden_calender</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_visiting_cardholder</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_portable_ruff</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_pinless_stapler</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_office_toolkit</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_power_bank</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_wireless_speaker</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_ear_bluetooth</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_sports_bluetooth</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_mi_powerbank_2000</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_food_processor</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_steam_iron</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_dry_iron</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_hand_blender</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_pressure_cooker</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_geyser</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_egg_boiler</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_plastic_container</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_cotton%20padded%20oven%20gloves</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/product/product_Insulated%20Casserole%20Set</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_desktop_organizer</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_yoga_mat</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_skipping_rope</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_dumbells_kits</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_smart__band</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_asian_shoes</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/faq</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_led_tea</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_glass</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_brassBowls</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_creamic</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_brassLaxmiIdol</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_silver</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_color</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_homemade</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_mens</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_diwali</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_lens</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_keyChain</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_arm</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_golden</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_classic_bottle</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_photo_lamp</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wooden</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_Crystal</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_photo_strip</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_magic_mug</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_bottle</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wooden_name</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_explosion_box</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wonder_kids</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_john_baby</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_mosquito_net</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_reusable_mat</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wall_mounting_pushup</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_baby%20carry%20bag</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wapper_for_babies</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_himalaya_babycare</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wooden_caleneder</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_visiting_cardholder</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_portable_ruff</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_pinless_stapler</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_office_toolkit</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_Handy_mini</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_skybags</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_milton_medical</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_travel_case</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_power_bank</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_wireless_speaker</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_ear_bluetooth</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_sports_bluetooth</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_mi_powerbank_2000</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_food_processor</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_steam_iron</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_dry_iron</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_hand_blender</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_pressure_cooker</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_geyser</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_egg_boiler</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_plastic_containe</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_cotton%20padded%20oven%20gloves</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kyalu.in/blog/blog_Insulated%20Casserole%20Set</loc>
-  <lastmod>2019-11-04T11:41:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+   <url>
+      <loc>https://kyalu.in/</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>1.00</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/index</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Mobile%20Accessories</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Office%20Accessories</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Baby%20Product</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Clothing</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Food</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Health%20and%20Personal%20Care</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Home%20Appliances</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Home%20Decor</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Kitchen%20and%20Dining</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Personal</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Photo</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Sports%20and%20Fitness</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Tool</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/shop?cat=Travel</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/explore</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/contact</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/aboutus</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/blog_buyerdecisionprocess</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in/faq</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=led_tea</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=arm</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=asian_shoes</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=baby carry bag</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=bottle</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=brassBowls</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=brasslaxmiIdol</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=classics_bottle</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=color</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=cotton padded oven gloves</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=ceramic</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=crystal</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=desktop_organizer</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=diwali</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=dry_iron</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=dumbells_kits</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=ear_bluetooth</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=egg_boiler</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=explosion_box</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=food_processor</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=geyser</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=glass</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=golden</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=hand_blender</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=handy_mini</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=himalaya_babycare</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=handmade</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=Insulated Casserole Set</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=john_baby</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=keyChain</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=lens</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=magic_mug</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=mens</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=mi_powerbank_2000</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=milton_medical</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=mosquito_net</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=office_toolkit</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=photo_lamp</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=photo_strip</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=pinless_stapler</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=plastic_container</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=portable_ruff</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=power_bank</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=pressure_cooker</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=reusable_mat</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=silver</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=skipping_rope</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=skybags</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=smart_band</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=sports_bluetooth</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=steam_iron</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=travel_case</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=visiting_cardholder</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wall_mounting_pushup</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wrapper_for_babies</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wireless_speaker</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wonder_kids</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wooden_calender</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wooden_name</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=wooden</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
+   <url>
+      <loc>https://kyalu.in//product/productdetail?name=yoga_mat</loc>
+      <lastmod>2019-11-21T15:19:26+00:00</lastmod>
+      <priority>0.80</priority>
+   </url>
 </urlset>
+
