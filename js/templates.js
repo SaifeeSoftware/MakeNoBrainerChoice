@@ -12,7 +12,7 @@ var DealSliderTemplate =
     '                                               <a href="{page_link}" title="{title}">  ' +
     '                                                   <div class="deals_item_name">{title}</div>  ' +
     '                                               </a>  ' +
-    '                                               <div class="deals_item_price ml-auto">₹ {price}</div>  ' +
+    '                                               <div class="deals_item_price ml-auto"> {price}</div>  ' +
     '                                           </div>  ' +
     '                                           <div class="available">  ' +
     '                                               <div class="available_line d-flex flex-row justify-content-start">  ' +
@@ -53,7 +53,7 @@ var TopProductSliderTemplate = '   <div class="featured_slider_item">  ' +
     '                                           <div class="product_item {product_mark} d-flex flex-column align-items-center justify-content-center text-center">  ' +
     '                                               <div class="product_image d-flex flex-column align-items-center justify-content-center"><img src="{main_img_src}" alt="{title}"></div>  ' +
     '                                               <div class="product_content">  ' +
-    '                                                   <div class="product_price">₹ {price}</div>  ' +
+    '                                                   <div class="product_price"> {price}</div>  ' +
     '                                                   <div class="product_name">  ' +
     '                                                       <div><a target="_blank" href="{page_link}" title="{title}">{title}</a></div>  ' +
     '                                                   </div>  ' +
@@ -81,7 +81,7 @@ var ProductSlider = '   <div class="owl-item">  ' +
     '                                           <div class="trends_category"><a href="#">{cat}</a></div>  ' +
     '                                           <div class="trends_info clearfix">  ' +
     '                                               <div class="trends_name"><a href="{page_link}" title="{title}">{title}</a></div>  ' +
-    '                                               <div class="trends_price">₹ {price}</div>  ' +
+    '                                               <div class="trends_price"> {price}</div>  ' +
     '                                           </div>  ' +
     '                                       </div>  ' +
     '                                       <ul class="trends_marks">  ' +
@@ -119,7 +119,7 @@ var ProductGalleryTemplate = '    <div class="product_item {product_mark}">  ' +
     '                                       <div class="product_border"></div>  ' +
     '                                       <div class="product_image d-flex flex-column align-items-center justify-content-center"><a title="{title}" href="{page_link}" tabindex="0"><img src="{main_img_src}" alt="{title}"></a></div>  ' +
     '                                       <div class="product_content">  ' +
-    '                                           <div class="product_price">₹ {price}</div>  ' +
+    '                                           <div class="product_price"> {price}</div>  ' +
     '                                           <div class="product_cat hide">{cat}</div>  ' +
     '                                           <div class="product_name">  ' +
     '                                               <div><a href="{page_link}" tabindex="0" title="{title}">{title}</a></div>  ' +
@@ -158,7 +158,7 @@ var ProductDetailTemplate = '<div class="single_product">' +
     '                               <div class="order_info d-flex flex-row">  ' +
     '                                   <form action="#">  ' +
     '                                       <div class="clearfix" style="z-index: 1000;">  ' +
-    '                                           <div class="product_price">₹ {price}</div>  ' +
+    '                                           <div class="product_price"> {price}</div>  ' +
     '                                           <div class="button_container">  ' +
     '                                               <button type="button" class="button cart_button"><a href="{buy_link}" target="_blank" title="Checkout at Amazon.in">Checkout at Amazon.in</a></button>  ' +
     '                                           </div>  ' +
