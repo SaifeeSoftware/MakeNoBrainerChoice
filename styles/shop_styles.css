@@ -1481,7 +1481,7 @@ select option {
 }
 
 .product_image img {
-    width: 100%;
+    width: 100px;
     height: 115px;
 }
 
@@ -1537,6 +1537,9 @@ select option {
     -ms-transition: all 200ms ease;
     -o-transition: all 200ms ease;
     transition: all 200ms ease;
+    display: block;
+    white-space: initial;
+    padding: 0 10px;
 }
 
 .product_name div a:hover {

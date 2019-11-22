@@ -1376,6 +1376,9 @@ select option {
     padding-bottom: 30px;
     font-size: 18px;
     font-weight: 500;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .blog_button {
