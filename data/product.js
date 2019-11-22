@@ -35,7 +35,7 @@ var jsonObject = [{
         "slider_cat": "Best Gifts for Loved Ones",
         "meta_tag_keyword": "Arm, Best Product, Durable, Tattoos arm sleeves, Football arm sleeve",
         "meta_tag_desc": "Stretch openings at the upper arm provide an easy way to pull on the Sleeves.",
-        "related": "3 in 1 Golden Gift,6 in 1 Keychain,Lens Mug",
+        "related": ["3 in 1 Golden Gift", "6 in 1 Keychain", "Lens Mug"],
         "_id_": "2"
     },
     {

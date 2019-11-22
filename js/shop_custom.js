@@ -465,7 +465,7 @@ $(document).ready(function() {
             intermediate = temp.replace(/{page_link}/g, value["page_link"])
                 .replace(/{title}/g, value["title"])
                 .replace(/{main_img_src}/g, value["main_img_src"])
-                .replace(/{price}/g, value["price"]);
+                // .replace(/{price}/g, value["price"]);
             if (value["sub_cat"] !== undefined) {
                 intermediate = intermediate.replace(/{cat}/g, value["sub_cat"])
             } else {
