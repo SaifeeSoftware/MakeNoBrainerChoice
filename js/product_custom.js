@@ -377,7 +377,7 @@ $(document).ready(function() {
                 .replace(/{title}/g, value["title"])
                 .replace(/{main_img_src}/g, value["main_img_src"])
                 .replace(/{cat}/g, value["main_cat"])
-                // .replace(/{price}/g, value["price"])
+                .replace(/{price}/g, "")
                 .replace(/{buy_link}/g, value["buy_link"])
                 .replace(/{short_desc}/g, value["short_desc"])
                 .replace(/{long_desc}/g, value["long_desc"]);

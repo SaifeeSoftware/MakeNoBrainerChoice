@@ -900,7 +900,7 @@ $(document).ready(function() {
                 .replace(/{title}/g, value["title"])
                 .replace(/{main_img_src}/g, value["main_img_src"])
                 .replace(/{cat}/g, value["main_cat"])
-                // .replace(/{price}/g, value["price"]);
+                .replace(/{price}/g, "");
         });
         //Remove loading image
         $(".deals .loader").remove();
@@ -922,7 +922,7 @@ $(document).ready(function() {
             intermediate = temp.replace(/{page_link}/g, value["page_link"])
                 .replace(/{title}/g, value["title"])
                 .replace(/{main_img_src}/g, value["main_img_src"])
-                // .replace(/{price}/g, value["price"]);
+                .replace(/{price}/g, "");
             if (value["discount"] !== undefined) {
                 intermediate = intermediate.replace(/{product_mark}/g, "{product_mark} discount")
                     .replace(/{discount}/g, value["discount"]);
@@ -960,7 +960,7 @@ $(document).ready(function() {
                 .replace(/{title}/g, value["title"])
                 .replace(/{main_img_src}/g, value["main_img_src"])
                 .replace(/{cat}/g, value["main_cat"])
-                // .replace(/{price}/g, value["price"]);
+                .replace(/{price}/g, "");
             if (value["discount"] !== undefined) {
                 intermediate = intermediate.replace(/{product_mark}/g, "{product_mark} discount")
                     .replace(/{discount}/g, value["discount"]);
