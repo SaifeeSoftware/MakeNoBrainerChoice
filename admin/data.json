@@ -36,7 +36,8 @@
         "meta_tag_keyword": "Arm, Best Product, Durable, Tattoos arm sleeves, Football arm sleeve",
         "meta_tag_desc": "Stretch openings at the upper arm provide an easy way to pull on the Sleeves.",
         "related": ["3 in 1 Golden Gift", "6 in 1 Keychain", "Lens Mug"],
-        "_id_": "2"
+        "_id_": "2",
+        "isLatest": true
     },
     {
         "title": "ASIAN Shoes Wonder-13 Grey Firozi Mesh Shoes",
@@ -57,7 +58,8 @@
             "Skipping Rope",
             "Mi Smart Band 4"
         ],
-        "_id_": "3"
+        "_id_": "3",
+        "isLatest": true
     },
     {
         "title": "Amardeep and Co Baby Sleeping Bag Cum Baby Carry Bag",
@@ -78,7 +80,8 @@
             "WonderKids 13 Piece",
             "Mosquito Net"
         ],
-        "_id_": "4"
+        "_id_": "4",
+        "isLatest": true
     },
     {
         "title": "Bottle Lamp",
@@ -228,7 +231,8 @@
             "Brass Laxmi Ganesh Idol",
             "LED Tea Light Candles"
         ],
-        "_id_": "11"
+        "_id_": "11",
+        "isLatest": true
     },
     {
         "title": "Engraved Crystal",
@@ -313,7 +317,8 @@
             "Food Processor",
             "Hand Blender"
         ],
-        "_id_": "15"
+        "_id_": "15",
+        "isLatest": true
     },
     {
         "title": "Dumbbells Kits",
@@ -356,7 +361,8 @@
             "JBL Wireless",
             "Boat Bluetooth"
         ],
-        "_id_": "17"
+        "_id_": "17",
+        "isLatest": true
     },
     {
         "title": "Egg Boiler",
@@ -419,7 +425,8 @@
             "Dry Iron",
             "Hand Blender"
         ],
-        "_id_": "20"
+        "_id_": "20",
+        "isLatest": true
     },
     {
         "title": "Geyser 3L",
