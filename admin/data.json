@@ -1,5 +1,4 @@
-{
-	"rows":[{
+[{
         "title": "LED Tea Light Candles",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41L-drZGl%2BL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41L-drZGl%2BL._SL540_.jpg",
@@ -18,27 +17,26 @@
             "Glass T-Light Holder",
             "Brass Silver Plated Bowls",
             "Ceramic Aroma Burner"
-        ]
+        ],
+        "_id_": "1"
     },
     {
         "title": "Arm Sleeves",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41S7D8OqKLL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41S7D8OqKLL._SL160_.jpg",
         "page_link": "/product/productdetail?name=arm",
-        "short_desc": "Ultimate UV protection protect for your arms from aging and sun-burn.",
-        "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "short_desc": "<p>Ultimate UV protection protect for your arms from aging and sun-burn.</p>",
+        "long_desc": "<div>Kabhi notice kiya hai k apne upper arm ki skin ka colour apne forearm k skin se light hota hai. Jabhi hum dhoop mein bahar jaate hai toh jo jagah kapdo se covered hoti hai woh toh bach jati hai. Magar jo log tshirts pehente hai unke forearms sun se exposed rehte hai. Jis k wajah se utna area tan ho jata hai.</div>\n<div>&nbsp;</div>\n<div>Iss cheez se bachne k liye ya toh full sleeves k kapde pehen sakte hai ya toh Arm Sleeves use kar sakte hai. Ab har jagah full sleeves k kapde pehen k jana possible nai hai. Toh arm sleeves ek better option hai. Jisse aap apne stylish kapde b pehen payenge aur apni skin ko tan hone se b bacha sakte hai. Arm sleeves sirf tan se he nai bachata per jo log sports khelte hai uske muscles ko support karta hai aur minor injuries se b bachata hai.</div>\n<div>&nbsp;</div>\n<div>Yeh arm sleeve bohat is soft fabric se bana hua hai aur strechable b hai. Yeh almost kisi b body type k logo ko fit ho jayega. Material breathable hai and Fast dry hai jis wajah se isse jyada time tak pehen sakte hai comfortably. Iska compression technology&nbsp;blood circulation&nbsp;badhata&nbsp;hai jisse pain aur swelling kum ho jata hai.Yeh ek must have product hai athletes aur outdoor activities k liye.</div>\n<div>&nbsp;</div>\n<div style=\"padding-left: 30px;\">Uses:</div>\n<div>\n<ol>\n<li>Protection from uv rays.</li>\n<li>Protection from sun-tan.</li>\n<li>Prevents injury.</li>\n<li>Relieves arm pain, elbow pain, swelling, soreness and discomfort.</li>\n<li>Actively promotes blood flow.</li>\n<li>Rapid muscular recovery.</li>\n</ol>\n</div>\n<div style=\"padding-left: 30px;\">Features:</div>\n<div>\n<ol>\n<li>Fast sweat kick away.</li>\n<li>High performance fabric.</li>\n<li>Breathable material.</li>\n<li>Compression technology.</li>\n<li>Stretchable material.</li>\n</ol>\n</div>",
         "main_cat": "Clothing",
+        "sub_cat": "",
         "age": "new",
         "price": "287",
         "buy_link": "https://www.amazon.in/dp/B06W56Z5V1/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=6b723545e6314ed72d7575b31363622f&language=en_IN",
         "slider_cat": "Best Gifts for Loved Ones",
         "meta_tag_keyword": "Arm, Best Product, Durable, Tattoos arm sleeves, Football arm sleeve",
         "meta_tag_desc": "Stretch openings at the upper arm provide an easy way to pull on the Sleeves.",
-        "related": [
-            "3 in 1 Golden Gift",
-            "6 in 1 Keychain",
-            "Lens Mug"
-        ]
+        "related": ["3 in 1 Golden Gift", "6 in 1 Keychain", "Lens Mug"],
+        "_id_": "2"
     },
     {
         "title": "ASIAN Shoes Wonder-13 Grey Firozi Mesh Shoes",
@@ -46,21 +44,20 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41xDwuBHfOL._SL160_.jpg",
         "page_link": "/product/productdetail?name=asian_shoes",
         "short_desc": "Comfortable shoes for Running, Jogging or playing outdoor sports.",
-        "long_desc": "<p>Running doesn’t require a lot of equipment or money. But what you shouldn’t save on is a good pair of running shoes. They often make the difference between enjoying running and hating it.&nbsp; </p> <p>6 FACTORS THAT INFLUENCE THE LIFESPAN OF YOUR RUNNING SHOES</p> <p>There is a wide variety of different shoe models, cushioning systems and stability features on the market from various manufacturers. But how long can our running shoes continue to provide 100% support and shock absorption?</p> <p>FACTOR #1: WEIGHT OF THE RUNNER</p> <p>FACTOR #2: AGE OF THE SHOE</p> <p>FACTOR #3: RUNNING TECHNIQUE</p> <p>FACTOR #4: RUNNING SURFACE</p> <p>FACTOR #5: SHOE SIZE</p> <p>FACTOR #6: RUNNING SHOE MODEL</p>",
+        "long_desc": "<p>Running doesn%u2019t require a lot of equipment or money. But what you shouldn%u2019t save on is a good pair of running shoes. They often make the difference between enjoying running and hating it.&nbsp; </p> <p>6 FACTORS THAT INFLUENCE THE LIFESPAN OF YOUR RUNNING SHOES</p> <p>There is a wide variety of different shoe models, cushioning systems and stability features on the market from various manufacturers. But how long can our running shoes continue to provide 100% support and shock absorption?</p> <p>FACTOR #1: WEIGHT OF THE RUNNER</p> <p>FACTOR #2: AGE OF THE SHOE</p> <p>FACTOR #3: RUNNING TECHNIQUE</p> <p>FACTOR #4: RUNNING SURFACE</p> <p>FACTOR #5: SHOE SIZE</p> <p>FACTOR #6: RUNNING SHOE MODEL</p>",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "old",
         "price": "374",
         "buy_link": "https://www.amazon.in/ASIAN-Shoes-Wonder-13-Grey-Firozi/dp/B01MXNVPUM/ref=as_li_ss_il?_encoding=UTF8&refRID=H6N11BADPS06A2M3DBCR&linkCode=li2&tag=thebestone0a-21&linkId=61394c725bc297f0cde575cbee0d67ac&language=en_IN",
         "slider_cat": "Best In Fitness 2019",
-        "isLatest": true,
         "meta_tag_keyword": "Boxing shoes, Football shoes, Cricket shoes, Running shoes, Durable",
         "meta_tag_desc": "ASIAN Shoes Wonder-13 Grey Firozi Mesh Shoes is an item of footwear intended to protect and comfort the human foot.",
         "related": [
             "Dumbbells Kits",
             "Skipping Rope",
             "Mi Smart Band 4"
-        ]
+        ],
+        "_id_": "3"
     },
     {
         "title": "Amardeep and Co Baby Sleeping Bag Cum Baby Carry Bag",
@@ -80,7 +77,8 @@
             "Johnson's Baby Care",
             "WonderKids 13 Piece",
             "Mosquito Net"
-        ]
+        ],
+        "_id_": "4"
     },
     {
         "title": "Bottle Lamp",
@@ -100,7 +98,8 @@
             "Magic Mug",
             "Engraved Crystal",
             "Photo Strip Box"
-        ]
+        ],
+        "_id_": "5"
     },
     {
         "title": "Brass Silver Plated Bowls",
@@ -112,7 +111,6 @@
         "main_cat": "Kitchen and Dining",
         "age": "old",
         "price": "299",
-        "discount": "-25%",
         "buy_link": "https://www.amazon.in/dp/B019ZM7HPY/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=b5feb41acf5c5b9a2e3b8aecff37ae61&language=en_IN",
         "slider_cat": "Top 10 Gifts",
         "meta_tag_keyword": "Brass, Silver, Spoon, Tray, Best buy, Good Quality, Bowls, Gold, Bronze",
@@ -121,7 +119,8 @@
             "LED Tea Light Candles",
             "Glass T-Light Holder",
             "Ceramic Aroma Burner"
-        ]
+        ],
+        "_id_": "6"
     },
     {
         "title": "Brass Laxmi Ganesh Idol",
@@ -142,7 +141,8 @@
             "Ceramic Aroma Burner",
             "Silver Plated Pooja Thali",
             "Brass Silver Plated Bowls"
-        ]
+        ],
+        "_id_": "7"
     },
     {
         "title": "Classic Bottle Shaker",
@@ -152,7 +152,6 @@
         "short_desc": "The shaker has a mixer ball wire whisk which whips around in the bottle to effectively mix the protein shake.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "240",
         "buy_link": "https://amzn.to/2BejJ86",
@@ -163,7 +162,8 @@
             "Arm Sleeves",
             "6 in 1 Keychain",
             "Lens Mug"
-        ]
+        ],
+        "_id_": "8"
     },
     {
         "title": "Colour Changing LED Light Glitter Water Candle",
@@ -184,7 +184,8 @@
             "Handmade Decorative Door Hanging",
             "Silver Plated Pooja Thali",
             "Brass Laxmi Ganesh Idol"
-        ]
+        ],
+        "_id_": "9"
     },
     {
         "title": "Cotton Padded Oven Gloves",
@@ -194,7 +195,6 @@
         "short_desc": "Allows you to safely move hot dishes from the stove & oven.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "299",
         "buy_link": "https://www.amazon.in/Amazon-Brand-Solimo-Cotton-Paisley/dp/B06WLGNSVJ/ref=as_li_ss_il? crid=3GWDXP58N7HRP&keywords=microwave+best +seller&qid=1571981248&smid=AT95IG9ONZD7S&sprefix=Microwave+best,aps,299&sr=8- 18&linkCode=li2&tag=thebestone0a-21&linkId=f021aa4034f2f855d7b6b1b2247c3ac2&language=en_IN",
@@ -205,7 +205,8 @@
             "Egg Boiler",
             "Handy Mini Plastic Chopper",
             "18pc Plastic Pet Container"
-        ]
+        ],
+        "_id_": "10"
     },
     {
         "title": "Ceramic Aroma Burner",
@@ -213,10 +214,9 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41%2BagrDcmmL._SL160_.jpg",
         "page_link": "/product/productdetail?name=ceramic",
         "short_desc": "Let the air around you deliver a suitably light and refreshing fragrance to your home interiors, revitalizing your mind, body and soul!.",
-        "long_desc": "Who doesnï¿½t like a good smelling home? And when itï¿½s done through all things natural then its cherry on top. So, say goodbye to those artificial room fresheners and sprays. Not only it purifies the air, but, can also be used a regular living room decor item.Thus, spread some positive energy among your dear ones with this Diwali gift. ",
+        "long_desc": "Who doesn�t like a good smelling home? And when it�s done through all things natural then its cherry on top. So, say goodbye to those artificial room fresheners and sprays. Not only it purifies the air, but, can also be used a regular living room decor item.Thus, spread some positive energy among your dear ones with this Diwali gift. ",
         "main_cat": "Home ",
         "sub_cat": "Home Decor",
-        "discount": "-25%",
         "age": "old",
         "price": "337",
         "buy_link": "https://www.amazon.in/dp/B078HGG5RL/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=b73f681de73b88f83d151ae7a0080f76&language=en_IN",
@@ -227,7 +227,8 @@
             "Brass Silver Plated Bowls",
             "Brass Laxmi Ganesh Idol",
             "LED Tea Light Candles"
-        ]
+        ],
+        "_id_": "11"
     },
     {
         "title": "Engraved Crystal",
@@ -237,7 +238,6 @@
         "short_desc": "Engrave your precious picture in a fine 3D crystal to make unique, beautiful, and memorable gift.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "1249",
         "buy_link": "https://www.amazon.in/dp/B07LF3VZZK/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=a3ad6002ba05ca12fe3aa8369fadc683&language=en_IN",
@@ -248,7 +248,8 @@
             "Photo Strip Box",
             "Bottle Lamp",
             "Engraved Crystal"
-        ]
+        ],
+        "_id_": "12"
     },
     {
         "title": "Desktop Organizer",
@@ -256,21 +257,20 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/61EeGv-MW5L._SL160_.jpg",
         "page_link": "/product/productdetail?name=desktop_organizer",
         "short_desc": "Spend less time looking for what you need and more time focusing on what matters.",
-        "long_desc": "How quickly can you find what you need at your desk? Is your work space streamlined and organized, or is it a cluttered mess? The average office worker wastes 6 weeks per year looking for misplaced documents. How much time do you waste searching for things you know you have, but you just canï¿½t find? Now you can end this struggle by just bring to your desk the desktop organizer. It helps you keep everything sorted and save your valuable time that can be used for productive work. This desk organizer Contains 8 compartments with a small slide drawer to organize pens, pencils, rulers, marker, clips, scissors and paper, books etc.Designed with hollow mesh to maintain ventilation so the organizer will not easy to accumulate dust while making it easy to clean with mild soap and water.Combined with sturdy metal construction and made from reinforced steel, the simple, elegant look of this mesh desk accessory is made for long time use. Metal mesh desk organiser is designed to keep everything organized right at your fingertips, which is a best gift for teachers, students, office staffs to sort out and save space. ",
+        "long_desc": "How quickly can you find what you need at your desk? Is your work space streamlined and organized, or is it a cluttered mess? The average office worker wastes 6 weeks per year looking for misplaced documents. How much time do you waste searching for things you know you have, but you just can�t find? Now you can end this struggle by just bring to your desk the desktop organizer. It helps you keep everything sorted and save your valuable time that can be used for productive work. This desk organizer Contains 8 compartments with a small slide drawer to organize pens, pencils, rulers, marker, clips, scissors and paper, books etc.Designed with hollow mesh to maintain ventilation so the organizer will not easy to accumulate dust while making it easy to clean with mild soap and water.Combined with sturdy metal construction and made from reinforced steel, the simple, elegant look of this mesh desk accessory is made for long time use. Metal mesh desk organiser is designed to keep everything organized right at your fingertips, which is a best gift for teachers, students, office staffs to sort out and save space. ",
         "main_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "349",
         "buy_link": "https://www.amazon.in/Callas-Metal-Mesh-Organizer-Black/dp/B0177N9IRI/ref=as_li_ss_il?keywords=desktop +organizer&qid=1571291464&smid=A14CZOWI0VEHLG&sprefix=desktop+or&sr=8- 3&linkCode=li2&tag=thebestone0a-21&linkId=da40f8355379f262bb9dbc36d1ac3f73&language=en_IN",
         "slider_cat": "Must Have On Office Desk",
         "meta_tag_keyword": "Office Accessories, Pen, Pencil, Rubber, Sharpner, Stationary Kits",
         "meta_tag_desc": "Desktop Organizer is used for putting pen/pencil, etc.",
-        "isLatest": true,
         "related": [
             "Wooden Calendar",
             "Visiting Card Holder",
             "Portable Ruff Pad E-Writer"
-        ]
+        ],
+        "_id_": "13"
     },
     {
         "title": "Diwali Dryfruit Gift Hamper",
@@ -278,7 +278,7 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/615sCLtrmtL._SL160_.jpg",
         "page_link": "/product/productdetail?name=diwali",
         "short_desc": "An healthy gift for your loved ones.",
-        "long_desc": "Canï¿½t think of anything to gift? Then this gifting option is your deal. Dry fruits are great for health and are not that perishable when compared to the typical Indian ï¿½mithai.ï¿½ This is an ideal gifting option for your fitness freak and diet conscious friends.Also, a popular gifting option when comes to acquaintances.This beautiful dry fruit hamper contains best of cashews, almonds, raisins and Pistachios. All these dry fruits are vacuum packed. ",
+        "long_desc": "Can�t think of anything to gift? Then this gifting option is your deal. Dry fruits are great for health and are not that perishable when compared to the typical Indian �mithai.� This is an ideal gifting option for your fitness freak and diet conscious friends.Also, a popular gifting option when comes to acquaintances.This beautiful dry fruit hamper contains best of cashews, almonds, raisins and Pistachios. All these dry fruits are vacuum packed. ",
         "main_cat": "Food",
         "age": "new",
         "price": "395",
@@ -290,7 +290,8 @@
             "Silver Plated Pooja Thali",
             "Brass Silver Plated Bowls",
             "LED Tea Light Candles"
-        ]
+        ],
+        "_id_": "14"
     },
     {
         "title": "Dry Iron",
@@ -301,7 +302,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Home",
         "sub_cat": "Home Appliances",
-        "discount": "-25%",
         "age": "new",
         "price": "559",
         "buy_link": "https://www.amazon.in/Orpat-OEI-187-1200-Watt-White/dp/B01A89OWHY/ref=as_li_ss_il?keywords=iron+best +seller&qid=1571897703&smid=AT95IG9ONZD7S&sr=8-8&linkCode=li2&tag=thebestone0a-21&linkId=97231b1213d5ab54dc27d4045041671b&language=en_IN",
@@ -312,7 +312,8 @@
             "Steam Iron",
             "Food Processor",
             "Hand Blender"
-        ]
+        ],
+        "_id_": "15"
     },
     {
         "title": "Dumbbells Kits",
@@ -320,21 +321,20 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41K230p8VGL._SL160_.jpg",
         "page_link": "/product/productdetail?name=dumbells_kits",
         "short_desc": "A combination of gym equipment for perfect workout.",
-        "long_desc": "Dumbbells are all you need. Well, for this.Weï¿½ re definitely advocates of finding ways to add variety to your workouts so you stay interested and rotate muscle attention.Sometimes the gym is really busy though and your preferredï¿½ machines are taken;or you want to burn some calories at home, or in a new way.Dumbbells are a great option!. And theyï¿½ re notï¿½ just convenient.In fact, someï¿½ believe dumbbells are evenï¿½ betterï¿½ for you than machines.Weï¿½ re notï¿½ here to have or solve that argument, but letï¿½ s look at a few things that dumbbells can certainlyï¿½ improve.And then get in a great workout with just theï¿½ bells!. The benefits of working out with dumbbells: It is important to note that when it comes to fitness equipment, there is noï¿½ one bestï¿½ piece of equipment.Your goals, current fitness levels, and limitations will determine your best workout strategy, as different types of fitness equipment is designed to achieve different results. It is important to note that when it comes to fitness equipment, there is noï¿½ one bestï¿½ piece of equipment.Your goals, current fitness levels, and limitations will determine your best workout strategy, as different types of fitness equipment is designed to achieve different results. However, free weights are a great option for anyone starting a workout program, wanting to build strength or range of motion, or add more resistance to their cardio workouts. ",
+        "long_desc": "Dumbbells are all you need. Well, for this.We� re definitely advocates of finding ways to add variety to your workouts so you stay interested and rotate muscle attention.Sometimes the gym is really busy though and your preferred� machines are taken;or you want to burn some calories at home, or in a new way.Dumbbells are a great option!. And they� re not� just convenient.In fact, some� believe dumbbells are even� better� for you than machines.We� re not� here to have or solve that argument, but let� s look at a few things that dumbbells can certainly� improve.And then get in a great workout with just the� bells!. The benefits of working out with dumbbells: It is important to note that when it comes to fitness equipment, there is no� one best� piece of equipment.Your goals, current fitness levels, and limitations will determine your best workout strategy, as different types of fitness equipment is designed to achieve different results. It is important to note that when it comes to fitness equipment, there is no� one best� piece of equipment.Your goals, current fitness levels, and limitations will determine your best workout strategy, as different types of fitness equipment is designed to achieve different results. However, free weights are a great option for anyone starting a workout program, wanting to build strength or range of motion, or add more resistance to their cardio workouts. ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "429",
         "buy_link": "https://www.amazon.in/Kore-KORE-DM-HEXA-COMBO16-Dumbbells-Kits/dp/B078MYV7M5/ref=as_li_ss_il? _encoding=UTF8&refRID=TEVDKEK685Y992TSC51Q&linkCode=li2&tag=thebestone0a-21&linkId=7232b1bb5a876645a5eeab8efa7d85d5&language=en_IN",
         "slider_cat": "Best In Fitness",
-        "isLatest": true,
         "meta_tag_keyword": "Dumbbells Kits, Excercise, Gym, Workout, Best Product",
         "meta_tag_desc": "Dumbbells Kits used for doing excercise.",
         "related": [
             "Mi Smart Band 4",
             "Yoga Mat",
             "Skipping Rope"
-        ]
+        ],
+        "_id_": "16"
     },
     {
         "title": "Boat On Ear Bluetooth Headphones",
@@ -345,7 +345,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Mobile Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "1499",
         "buy_link": "https://www.amazon.in/Super-Rockerz-400-Bluetooth-Headphones/dp/B01FSYQ2A4/ref=as_li_ss_il? keywords=bluetooth+headphones+best+seller&qid=1571815913&smid=A14CZOWI0VEHLG&sr=8- 15&linkCode=li2&tag=thebestone0a-21&linkId=32a1e3137972bfcbd6cce930d04432e8&language=en_IN",
@@ -356,7 +355,8 @@
             "Mi Powerbank",
             "JBL Wireless",
             "Boat Bluetooth"
-        ]
+        ],
+        "_id_": "17"
     },
     {
         "title": "Egg Boiler",
@@ -366,7 +366,6 @@
         "short_desc": "Boiling eggs made hassle free and easy.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "370",
         "buy_link": "https://www.amazon.in/dp/B07H3WDC4X/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=a1843e055be7a19f4344701111e47385&language=en_IN",
@@ -377,7 +376,8 @@
             "Steam Iron",
             "Hand Blender",
             "Dry Iron"
-        ]
+        ],
+        "_id_": "18"
     },
     {
         "title": "Explosion Box",
@@ -387,7 +387,6 @@
         "short_desc": "It can be customized, fill it with photos, write some notes, pen down your thoughts or sketch some emoji's.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "499",
         "buy_link": "https://www.amazon.in/dp/B07957FC7N/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=3e33729888d87bc221de3008e3f63ce1&language=en_IN",
@@ -398,7 +397,8 @@
             "Bottle Lamp",
             "Magic Mug",
             "Photo Strip Box"
-        ]
+        ],
+        "_id_": "19"
     },
     {
         "title": "Food Processor",
@@ -408,7 +408,6 @@
         "short_desc": "COOK LIKE A MASTERCHEF WITH INALSA FIESTA FOOD PROCESSOR",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "3899",
         "buy_link": "https://www.amazon.in/Inalsa-Fiesta-650-Watt-Processor-White/dp/B011B7WMN8/ref=as_li_ss_il? keywords=food+processor+best+seller&qid=1571897354&smid=AT95IG9ONZD7S&sr=8- 2&linkCode=li2&tag=thebestone0a-21&linkId=948b2de8eabd54bed51618849dfc0816&language=en_IN",
@@ -419,7 +418,8 @@
             "Steam Iron",
             "Dry Iron",
             "Hand Blender"
-        ]
+        ],
+        "_id_": "20"
     },
     {
         "title": "Geyser 3L",
@@ -430,7 +430,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Home",
         "sub_cat": "Home Appliances",
-        "discount": "-25%",
         "age": "new",
         "price": "2598",
         "buy_link": "https://www.amazon.in/Crompton-Solarium-IWH03PC1-3-Litre-Instant/dp/B00HWQ9DX0/ref=as_li_ss_il? crid=3NEFARDHCXYVV&keywords=geyser +3+ltr&qid=1571973048&smid=AT95IG9ONZD7S&sprefix=Gey,aps,305&sr=8-5&linkCode=li2&tag=thebestone0a-21&linkId=4d50860bbb265b2e653660bb019f111d&language=en_IN",
@@ -441,7 +440,8 @@
             "Steam Iron",
             "Dry Iron",
             "Hand Blender"
-        ]
+        ],
+        "_id_": "21"
     },
     {
         "title": "Glass T-Light Holder",
@@ -462,7 +462,8 @@
             "LED Tea Light Candles",
             "Brass Silver Plated Bowls",
             "Ceramic Aroma Burner"
-        ]
+        ],
+        "_id_": "22"
     },
     {
         "title": "3 in 1 Golden Gift",
@@ -472,7 +473,6 @@
         "short_desc": "A combination of three gift items A Premium Pen with Crystal Inside A Metallic Card Holder with Magnetic Lock A Metallic Table Watch.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Personal",
-        "discount": "-25%",
         "age": "new",
         "price": "398",
         "buy_link": "https://www.amazon.in/dp/B01ID051D4/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=889d206afd3ca786d320c3e5666b5b46&language=en_IN",
@@ -483,7 +483,8 @@
             "Lens Mug",
             "Arm Sleeves",
             "6 in 1 Keychain"
-        ]
+        ],
+        "_id_": "23"
     },
     {
         "title": "Hand Blender",
@@ -493,7 +494,6 @@
         "short_desc": "Simplify Your Blending and Mixing Tasks.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "747",
         "buy_link": "https://www.amazon.in/Orpat-HHB-100E-WOB-250-Watt-Blender/dp/B00A7PLVU6/ref=as_li_ss_il? keywords=hand+blender+best+seller&qid=1571898385&smid=AT95IG9ONZD7S&sr=8- 1&linkCode=li2&tag=thebestone0a-21&linkId=a8a000c090eaef458cbe7e63424e86c1&language=en_IN",
@@ -504,7 +504,8 @@
             "Steam Iron",
             "Dry Iron",
             "Food Processor"
-        ]
+        ],
+        "_id_": "24"
     },
     {
         "title": "Handy Mini Plastic Chopper",
@@ -524,7 +525,8 @@
             "Skybags Cardiff Polyester",
             "Milton Medical Box",
             "AmazonBasics Universal"
-        ]
+        ],
+        "_id_": "25"
     },
     {
         "title": "Himalaya Babycare Gift Basket",
@@ -534,7 +536,6 @@
         "short_desc": "The new range of baby skincare products from Himalaya Herbals translates care into protection for your baby.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "488",
         "buy_link": "https://www.amazon.in/Himalaya-4015A-Babycare-Gift-Basket/dp/B0063BLDGK/ref=as_li_ss_il? keywords=Himalaya+Babycare+Gift+Basket&qid=1571199510&smid=AT95IG9ONZD7S&sr=8- 2&linkCode=li2&tag=thebestone0a-21&linkId=2156b4f641c269800f46b81c329bca9c&language=en_IN",
@@ -545,7 +546,8 @@
             "Mosquito Net",
             "Reusable Mat",
             "Johnson's Baby Care"
-        ]
+        ],
+        "_id_": "26"
     },
     {
         "title": "Handmade Decorative Door Hanging",
@@ -566,17 +568,17 @@
             "Glass T-Light Holder",
             "Brass Silver Plated Bowls",
             "Ceramic Aroma Burner"
-        ]
+        ],
+        "_id_": "27"
     },
     {
         "title": "Insulated Casserole Set",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/410fgP5LjrL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/410fgP5LjrL._SL160_.jpg",
         "page_link": "/product/productdetail?name=Insulated Casserole Set",
-        "short_desc": "Solution to all your food preservation requirements. Now, you can cook mouth-watering dishes for your family and serve them hot whenever you choose to.ï¿½",
+        "short_desc": "Solution to all your food preservation requirements. Now, you can cook mouth-watering dishes for your family and serve them hot whenever you choose to.�",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "599",
         "buy_link": "https://www.amazon.in/Milton-Orchid-Junior-Insulated-Casserole/dp/B00O52UQDA/ref=as_li_ss_il? ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=19783dae6708cc8a7cd5dd85ee48cc6c&language=en_IN",
@@ -587,17 +589,17 @@
             "Steam Iron",
             "Dry Iron",
             "Hand Blender"
-        ]
+        ],
+        "_id_": "28"
     },
     {
         "title": "Johnson's Baby Care",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/517miBQpZpL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/517miBQpZpL._SL160_.jpg",
         "page_link": "/product/productdetail?name=john_baby",
-        "short_desc": "Johnsonï¿½s Baby Care Collection is an exclusive collection carefully selected to help a new mother celebrate her journey of nurturing a happy, healthy baby!.",
+        "short_desc": "Johnson�s Baby Care Collection is an exclusive collection carefully selected to help a new mother celebrate her journey of nurturing a happy, healthy baby!.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "735",
         "buy_link": "https://www.amazon.in/Johnsons-Collection-Organic-Cotton-Milestone/dp/B01J81HVUI/ref=as_li_ss_il? keywords=Johnson's+Baby+Care+Collection+Baby+Gift+Set+with+Organic+Cotton+Baby+Dress+and+Milestone+Book +(10+Pieces)&qid=1571199057&smid=AT95IG9ONZD7S&sr=8-1&linkCode=li2&tag=thebestone0a-21&linkId=56612fa6ac6d2c1ebad782cf85c3d55a&language=en_IN",
@@ -608,7 +610,8 @@
             "WonderKids 13 Piece",
             "Mosquito Net",
             "Reusable Mat"
-        ]
+        ],
+        "_id_": "29"
     },
     {
         "title": "6 in 1 Keychain",
@@ -618,7 +621,6 @@
         "short_desc": "Smart and useful little kit that has a variety of Tool, a torch and is also a handy key-chain.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Tool",
-        "discount": "-25%",
         "age": "new",
         "price": "245",
         "buy_link": "https://www.amazon.in/dp/B00FLQM9Y8/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=61385f26a5a0cc0153efd73070d9d5a2&language=en_IN",
@@ -629,7 +631,8 @@
             "Classic Bottle Shaker",
             "3 in 1 Golden Gift",
             "Arm Sleeves"
-        ]
+        ],
+        "_id_": "30"
     },
     {
         "title": "Lens Mug",
@@ -639,7 +642,6 @@
         "short_desc": "A cool and stylish coffee mug to sip and enjoy your beverage in style.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "245",
         "buy_link": "https://www.amazon.in/dp/B00PBVJ1FS/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=9f4884d635d87d8c9015920c8aea3105&language=en_IN",
@@ -650,7 +652,8 @@
             "6 in 1 Keychain",
             "Arm Sleeves",
             "3 in 1 Golden Gift"
-        ]
+        ],
+        "_id_": "31"
     },
     {
         "title": "Magic Mug",
@@ -660,7 +663,6 @@
         "short_desc": "It's Just A Black Mug Until Any Hot Liquid Like Tea Or Coffee Is Poured In - That's When It Shows Off Your Favorite Photos!.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "166",
         "buy_link": "https://www.amazon.in/dp/B01C9V7AMS/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=320e348c6ad54838206b24f2f8dd500b&language=en_IN",
@@ -671,7 +673,8 @@
             "Bottle Lamp",
             "Photo Strip Box",
             "Engraved Crystal"
-        ]
+        ],
+        "_id_": "32"
     },
     {
         "title": "Men's Leather Wallet and Belt Combo",
@@ -691,7 +694,8 @@
             "Ceramic Aroma Burner",
             "Handmade Decorative Door Hanging",
             "LED Tea Light Candles"
-        ]
+        ],
+        "_id_": "33"
     },
     {
         "title": "Mi Powerbank 20000 mAh",
@@ -702,7 +706,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Mobile Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "1449",
         "buy_link": "https://www.amazon.in/Mi-20000mAH-Li-Polymer-Sandstone-Charging/dp/B07VXJS7DH/ref=as_li_ss_il? crid=2M61XDLSHWZWE&keywords=mi+powet+bank +20000+mah&qid=1571817133&smid=A14CZOWI0VEHLG&sprefix=Mi+powet,aps,746&sr=8- 1&linkCode=li2&tag=thebestone0a-21&linkId=a1ac327e97fb76fac99c1988336cbcd9&language=en_IN",
@@ -713,7 +716,8 @@
             "Boat Bluetooth",
             "JBL Wireless",
             "Mi Powerbank"
-        ]
+        ],
+        "_id_": "34"
     },
     {
         "title": "Milton Medical Box",
@@ -723,7 +727,6 @@
         "short_desc": "Overcome medical emergencies and keep your medicines organized with the Milton medical box.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "old",
         "price": "229",
         "buy_link": "https://www.amazon.in/MILTON-DHHFFHG075ASSR0048-Milton-Medical- Box/dp/B00Y6EHHQ6/ref=as_li_ss_il?crid=2Y3K4XM6ZB68W&keywords=deal+of+the +day&qid=1571223935&refinements=p_72:1318476031&rnid=1318475031&smid=AT95IG9ONZD7S&sprefix=Deal,aps,544&sr=8-3&linkCode=li2&tag=thebestone0a-21&linkId=8dbcbc531a43cb7eb4e488b699e5864a&language=en_IN",
@@ -734,7 +737,8 @@
             "AmazonBasics Universal ",
             "Handy Mini Plastic Chopper",
             "Skybags Cardiff Polyester"
-        ]
+        ],
+        "_id_": "35"
     },
     {
         "title": "Amardeep and Co Toddler Mattress with Mosquito Net",
@@ -744,7 +748,6 @@
         "short_desc": "Bring this Amardeep baby mattress with mosquito net for a heavenly comfortable night sleep which also provides a safe and mosquito free sleeping area for your baby.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "400",
         "buy_link": "https://www.amazon.in/Amardeep-Co-Toddler-Mattress-Mosquito/dp/B00YGLFY9Q/ref=as_li_ss_il? keywords=Amardeep+and+Co+Toddler+Mattress+with+Mosquito+Net+(Pink)+-+MT-01-Pink&qid=1571199668&sr=8- 1&linkCode=li2&tag=thebestone0a-21&linkId=ce1cf94c2a8f7ea626d9cceac360c1e6&language=en_IN",
@@ -755,7 +758,8 @@
             "Reusable Mat",
             "WonderKids 13 Piece",
             "Johnson's Baby Care"
-        ]
+        ],
+        "_id_": "36"
     },
     {
         "title": "10 in 1 Combo of Offices Toolkit",
@@ -766,7 +770,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "537",
         "buy_link": "https://www.amazon.in/Unique-Gadget-Toolkit-Scissors-Measurig/dp/B00LGRJ5NE/ref=as_li_ss_il? _encoding=UTF8&pd_rd_i=B00LGRJ5NE&pd_rd_r=9c6c049b-4165-4d73-b17b- e29fe1c41602&pd_rd_w=fxRK5&pd_rd_wg=Rr90V&pf_rd_p=64901ac7-e7c5-4bfc-9580-c94746a1fc53&pf_rd_r=RRQE8QFP9F7CMRWXCM1P&psc=1&refRID=RRQE8QFP9F7CMRWXCM1P&linkCode=li2&tag=thebestone0a-21&linkId=21656cf162387ed21ffdada5a677dc91&language=en_IN",
@@ -777,7 +780,8 @@
             "Wooden Calendar",
             "Desktop Organizer",
             "Visiting Card Holder"
-        ]
+        ],
+        "_id_": "37"
     },
     {
         "title": "Name Photo Lamp",
@@ -787,7 +791,6 @@
         "short_desc": "Five favorite moments of life treasured in one beautiful photo lamp.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "999",
         "buy_link": "https://www.amazon.in/dp/B071H2CLP6/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=5fc083d487cc55ecf8f41d7bbc821a4a&language=en_IN",
@@ -798,7 +801,8 @@
             "Wooden Photo Frame",
             "Engraved Crystal",
             "Photo Strip Box"
-        ]
+        ],
+        "_id_": "38"
     },
     {
         "title": "Photo Strip Box",
@@ -808,7 +812,6 @@
         "short_desc": "Personalised box of your favorite photos is a cute and unique way to keep and gift the memorable moments of your life.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "199",
         "buy_link": "https://www.amazon.in/dp/B07PWQH3Z2/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=9496440cd953be5d46da2e01eb82b7a5&language=en_IN",
@@ -819,7 +822,8 @@
             "Magic Mug",
             "Engraved Crystal",
             "Bottle Lamp"
-        ]
+        ],
+        "_id_": "39"
     },
     {
         "title": "Pinless Stapler",
@@ -830,7 +834,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "392",
         "buy_link": "https://www.amazon.in/gp/product/B00LY1NOXY/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a- 21&linkId=b5f6804803e48b1960cb651a87f84843&language=en_IN",
@@ -841,7 +844,8 @@
             "Wooden Calendar",
             "Desktop Organizer",
             "Visiting Card Holder"
-        ]
+        ],
+        "_id_": "40"
     },
     {
         "title": "18pc Plastic Pet Container",
@@ -851,7 +855,6 @@
         "short_desc": "With a clear design, unique patterned exterior design and airtight lids, the Cello Checkers canister set is the perfect solution for storing a wide variety of food items in your kitchen while keeping them free from moisture.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "665",
         "buy_link": "https://www.amazon.in/Cello-Checkers-Plastic-Canister-Pieces/dp/B01LYBZX6Y/ref=as_li_ss_il? crid=3GWDXP58N7HRP&keywords=microwave+best +seller&qid=1571973463&smid=AT95IG9ONZD7S&sprefix=Microwave+best,aps,299&sr=8- 17&linkCode=li2&tag=thebestone0a-21&linkId=1345f955b7171d78167d4bbbea55c202&language=en_IN",
@@ -862,7 +865,8 @@
             "Steam Iron",
             "Dry Iron",
             "Food Processor"
-        ]
+        ],
+        "_id_": "41"
     },
     {
         "title": "Portable Ruff Pad E-Writer",
@@ -871,9 +875,7 @@
         "page_link": "/product/productdetail?name=portable_ruff",
         "short_desc": "Portable Ruff Pad E-Writer.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
-        "main_cat": "Accessories",
         "main_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "39",
         "buy_link": "https://www.amazon.in/Portronics-POR-628-Portable-Paperless/dp/B01MCUTU9K/ref=as_li_ss_il? keywords=Office+desk&qid=1571295159&refinements=p_72:1318477031,p_36:- 50000&rnid=6265400031&s=office&smid=A14CZOWI0VEHLG&sr=1-76&linkCode=li2&tag=thebestone0a-21&linkId=746c469baf08c98541c60a123ba03208&language=en_IN",
@@ -884,7 +886,8 @@
             "Desktop Organizer",
             "Visiting Card Holder",
             "Wooden Calendar"
-        ]
+        ],
+        "_id_": "42"
     },
     {
         "title": "Mi Powerbank 10000mAh",
@@ -895,7 +898,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Mobile Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "899",
         "buy_link": "https://www.amazon.in/Mi-10000mAH-Li-Polymer-Power-Charging/dp/B07VZRJQX1/ref=as_li_ss_il? keywords=power+bank+best+seller&qid=1571815111&smid=A14CZOWI0VEHLG&sr=8- 1&linkCode=li2&tag=thebestone0a-21&linkId=648cfb0ce2555848dcfd3d8d3aa48d85&language=en_IN",
@@ -906,7 +908,8 @@
             "JBL Wireless",
             "Boat Ear Bluetooth",
             "Boat Bluetooth"
-        ]
+        ],
+        "_id_": "43"
     },
     {
         "title": "Pressure Cooker 3L",
@@ -916,7 +919,6 @@
         "short_desc": "High Quality Pressure Cooker with Durable Quality Material.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Kitchen and Dining",
-        "discount": "-25%",
         "age": "new",
         "price": "1036",
         "buy_link": "https://www.amazon.in/Prestige-Popular-Aluminium-Pressure-Cooker/dp/B002RL8X9U/ref=as_li_ss_il? keywords=Pressure+Cooker+best+seller&qid=1571898580&sr=8-6&linkCode=li2&tag=thebestone0a-21&linkId=064ec59cdcf3467a7ff3cd61b42f5188&language=en_IN",
@@ -927,7 +929,8 @@
             "Steam Iron",
             "Dry Iron",
             "Hand Blender"
-        ]
+        ],
+        "_id_": "44"
     },
     {
         "title": "Reusable Mat",
@@ -937,7 +940,6 @@
         "short_desc": "Newnik Cozymat is a comfortable fabric with an extra dry layer to prevent bed wetting. It soaks up to 8 times of its weight.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "283",
         "buy_link": "https://www.amazon.in/Newnik-Cozymat-Soft-Water-Proof-Reusable/dp/B00KRCP2RC/ref=as_li_ss_il? keywords=Newnik+Cozymat+Soft,+Dry+Sheet,+Quick,+Water-Proof+&+Reusable+Mat+(Size:+70cm+X +100cm)&qid=1571200181&sr=8-1&linkCode=li2&tag=thebestone0a-21&linkId=81a279510ac92234c9f1f8be1ced298d&language=en_IN",
@@ -948,7 +950,8 @@
             "Mosquito Net",
             "Johnson's Baby Care",
             "WonderKids 13 Piece"
-        ]
+        ],
+        "_id_": "45"
     },
     {
         "title": "Silver Plated Pooja Thali",
@@ -968,7 +971,8 @@
             "Brass Silver Plated Bowls",
             "Brass Laxmi Ganesh Idol",
             "Ceramic Aroma Burner"
-        ]
+        ],
+        "_id_": "46"
     },
     {
         "title": "Skipping Rope",
@@ -976,21 +980,20 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/5172%2BsxfAYL._SL160_.jpg",
         "page_link": "/product/productdetail?name=skipping_rope",
         "short_desc": "Upgrade your fitness levels with this skipping rope by Vector X.",
-        "long_desc": "If you're looking for a way to add a little fun and creativity to your workouts, consider adding jump rope intervals. A good jump rope is one of the best investments you can make in your own fitness because it is an extremely effective form of cardiorespiratory exercise and doesn't require much more than a little space, a timer and some creativity. Humans burn about five calories to consume 1 liter of oxygen.This means that exercises that involve more muscles can increase the demand for oxygen, allowing you to expend more energy(burn more calories).Anyone who has swung a rope for more than 20 seconds knows that it 's a great way to elevate your heart rate and burn calories. If youï¿½ re still not convinced to try it, here are seven more reasons why you should consider jumping rope when looking for ways to change your existing fitness program: 1.ï¿½ Jumping rope can increase the elasticity and resiliency of lower - leg muscles, leading to a reduced risk of lower - leg injuries. 2. Jumping rope can help improve your coordination. 3. Jumping rope can help improve your cognitive function. 4. Jumping rope can help increase the intensity of circuit - training workouts. 5. Jump ropes are extremely portable, which makes them an excellent option when traveling. 6.ï¿½ The portability of jump ropes make them an excellent option for outdoor workouts at your favorite park or exercise course. 7.ï¿½ A jump ropes is the only piece of home cardio equipment you really need. ",
+        "long_desc": "If you're looking for a way to add a little fun and creativity to your workouts, consider adding jump rope intervals. A good jump rope is one of the best investments you can make in your own fitness because it is an extremely effective form of cardiorespiratory exercise and doesn't require much more than a little space, a timer and some creativity. Humans burn about five calories to consume 1 liter of oxygen.This means that exercises that involve more muscles can increase the demand for oxygen, allowing you to expend more energy(burn more calories).Anyone who has swung a rope for more than 20 seconds knows that it 's a great way to elevate your heart rate and burn calories. If you� re still not convinced to try it, here are seven more reasons why you should consider jumping rope when looking for ways to change your existing fitness program: 1.� Jumping rope can increase the elasticity and resiliency of lower - leg muscles, leading to a reduced risk of lower - leg injuries. 2. Jumping rope can help improve your coordination. 3. Jumping rope can help improve your cognitive function. 4. Jumping rope can help increase the intensity of circuit - training workouts. 5. Jump ropes are extremely portable, which makes them an excellent option when traveling. 6.� The portability of jump ropes make them an excellent option for outdoor workouts at your favorite park or exercise course. 7.� A jump ropes is the only piece of home cardio equipment you really need. ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "155",
         "buy_link": "https://www.amazon.in/Vector-X-Skipping-Rope-Black/dp/B01MTKAAQV/ref=as_li_ss_il? _encoding=UTF8&refRID=WX7K8SPMHPXAYT50MX47&linkCode=li2&tag=thebestone0a-21&linkId=94cb169e55e694a061abd2b8f134387d&language=en_IN",
         "slider_cat": "Best In Fitness",
-        "isLatest": true,
         "meta_tag_keyword": "Skipping Rope, Yoga, Workout, Durable, Best Product, Jump rope for weight loss",
         "meta_tag_desc": "Skipping Rope is used for doing excercise.",
         "related": [
             "Yoga Mat",
             "Dumbbells Kits",
             "Mi Smart Band 4"
-        ]
+        ],
+        "_id_": "47"
     },
     {
         "title": "Skybags Cardiff Polyester",
@@ -1010,7 +1013,8 @@
             "Handy Mini Plastic Chopper",
             "AmazonBasics Universal ",
             "Milton Medical Box"
-        ]
+        ],
+        "_id_": "48"
     },
     {
         "title": "Mi Smart Band 4",
@@ -1018,21 +1022,20 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41%2BY1oz4TML._SL160_.jpg",
         "page_link": "/product/productdetail?name=smart_band",
         "short_desc": "Track your fitness, sleep and heart rate and also receive notifications.",
-        "long_desc": "You know, it wasnï¿½t so long ago that fitness trackers were limited to your mum walking in to the living room with a pedometer clipped to her waist saying ï¿½Look! It counts your steps! What will they think of next?!ï¿½ These days fitness trackers have more functions than a swiss army knife, usually including a heart rate monitor, exercise programs, distance trackers, calorie trackers and many more, all with the intention of improving your health. More often than not, theyï¿½ ll use connectivity to your smart phone, meaning you can access data and analysis on your exercise sessions. Fitness tracker segmentï¿½ a segment that was once dominated by expensive options that did the task well but could be afforded by only those who were serious about staying fit.Xiaomiï¿½ s entry into the fitness tracking segment with the original Mi Band sowed the seeds of rapid change, expanding the target audience of this segment from established fitness aficionados to amateurs who were just looking toget started.With the new Mi Band 4, Xiaomi is bringing in some big, ï¿½and colorful, changes to its fitness tracker, making a competitive product even more attractive. ",
+        "long_desc": "You know, it wasn�t so long ago that fitness trackers were limited to your mum walking in to the living room with a pedometer clipped to her waist saying �Look! It counts your steps! What will they think of next?!� These days fitness trackers have more functions than a swiss army knife, usually including a heart rate monitor, exercise programs, distance trackers, calorie trackers and many more, all with the intention of improving your health. More often than not, they� ll use connectivity to your smart phone, meaning you can access data and analysis on your exercise sessions. Fitness tracker segment� a segment that was once dominated by expensive options that did the task well but could be afforded by only those who were serious about staying fit.Xiaomi� s entry into the fitness tracking segment with the original Mi Band sowed the seeds of rapid change, expanding the target audience of this segment from established fitness aficionados to amateurs who were just looking toget started.With the new Mi Band 4, Xiaomi is bringing in some big, �and colorful, changes to its fitness tracker, making a competitive product even more attractive. ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "2298",
         "buy_link": "https://www.amazon.in/Mi-Smart-Band-4-Black/dp/B07WLL998K/ref=as_li_ss_il? _encoding=UTF8&psc=1&refRID=0540KSD2GA2JC3367ZDN&linkCode=li2&tag=thebestone0a-21&linkId=e7583e7ce6e6bf7e9974124d35d8fbc4&language=en_IN",
         "slider_cat": "Best In Fitness",
-        "isLatest": true,
         "meta_tag_keyword": "Smart Band, Fitness, Workout, Smart Techonology, Get smart band, Durable",
         "meta_tag_desc": "Mi Smart Band is used for tracking fitness and heart beat with smart techonology.",
         "related": [
             "Skipping Rope",
             "Yoga Mat",
             "Dumbbells Kits"
-        ]
+        ],
+        "_id_": "49"
     },
     {
         "title": "Boat Sports Bluetooth Headphones",
@@ -1043,7 +1046,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Mobile Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "999",
         "buy_link": "https://www.amazon.in/255-Bluetooth-Wireless-Earphone-Immersive/dp/B07C2VJXP4/ref=as_li_ss_il? _encoding=UTF8&ref_=psdcmw_1388921031_t1_B01FSYQ2A4&linkCode=li2&tag=thebestone0a-21&linkId=faf6419914323ffd4458e48e55aeb8b1&language=en_IN",
@@ -1054,7 +1056,8 @@
             "Boat Ear Bluetooth",
             "Mi Powerbank",
             "JBL Wireless"
-        ]
+        ],
+        "_id_": "50"
     },
     {
         "title": "Steam Iron",
@@ -1065,7 +1068,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Home",
         "sub_cat": "Home Appliances",
-        "discount": "-25%",
         "age": "new",
         "price": "1375",
         "buy_link": "https://www.amazon.in/Philips-GC1905-1440-Watt-Steam-Spray/dp/B008QTK47Q/ref=as_li_ss_il? keywords=iron+best+seller&qid=1571897703&smid=AT95IG9ONZD7S&sr=8-1&linkCode=li2&tag=thebestone0a-21&linkId=55b38d28c44eadb687bf9d32f2541b0c&language=en_IN",
@@ -1076,7 +1078,8 @@
             "Food Processor",
             "Hand Blender",
             "Dry Iron"
-        ]
+        ],
+        "_id_": "51"
     },
     {
         "title": "AmazonBasics Universal Travel Case",
@@ -1096,7 +1099,8 @@
             "Milton Medical Box",
             "Handy Mini Plastic Chopper",
             "Skybags Cardiff Polyester"
-        ]
+        ],
+        "_id_": "52"
     },
     {
         "title": "Visiting Card Holder",
@@ -1107,7 +1111,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "289",
         "buy_link": "https://www.amazon.in/ORCHID-ENGINEERS-Visiting-Attractive-Welcome/dp/B07NNZYGHW/ref=as_li_ss_il? keywords=Office+desk&pd_rd_i=B07NNZYGHW&pd_rd_r=5aa11e67-b251-4efa-a8eb- 3df7d283b3dd&pd_rd_w=yiy00&pd_rd_wg=ncfSN&pf_rd_p=eb1a6561-d0c5-4c2b-a80c- 5a575bb007be&pf_rd_r=FKGFGE2WC0FRC26JXQ95&qid=1571292311&refinements=p_72:1318477031,p_36:- 50000&rnid=6265400031&s=office&linkCode=li2&tag=thebestone0a-21&linkId=aa8b6068f4b08e8efbd52ea3c37fa980&language=en_IN",
@@ -1118,7 +1121,8 @@
             "Portable Ruff Pad E-Writer",
             "Wooden Calendar",
             "Desktop Organizer"
-        ]
+        ],
+        "_id_": "53"
     },
     {
         "title": "Wall Mounting Pushup and Chinup Bar",
@@ -1126,9 +1130,8 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41TZihgbu6L._SL160_.jpg",
         "page_link": "/product/productdetail?name=wall_mounting_pushup",
         "short_desc": "Build and strengthen your back, biceps, arms, shoulders and other upper body muscles in the comfort of your own home.",
-        "long_desc": "Pullï¿½upï¿½bars for your home are an ideal training device for being able to do one of the most effective back exercises at any time. Pull-ups mainly address theï¿½back muscles, but theï¿½arm musclesï¿½are also involved in the movement. Depending on the exercise, grip and grip width, the focus can be shifted to the different muscles. Nowadays you can findï¿½ pull - up barsï¿½ for theï¿½ doorï¿½ as well as models to be mounted on theï¿½ wallï¿½ or on theï¿½ ceiling.What are the advantages and disadvantages of the different variants ? Aï¿½ pull up bar for the wallisï¿½ especially sustainable.These models are firmly mounted to the wall so that you do not have to hang them up every time before the training.This is especially useful for regularï¿½ pull up training, but it alsoï¿½ requires a lot of space, of course. These barsï¿½ can stand high loadsï¿½ without problems, provided that your bar is of good quality ",
+        "long_desc": "Pull�up�bars for your home are an ideal training device for being able to do one of the most effective back exercises at any time. Pull-ups mainly address the�back muscles, but the�arm muscles�are also involved in the movement. Depending on the exercise, grip and grip width, the focus can be shifted to the different muscles. Nowadays you can find� pull - up bars� for the� door� as well as models to be mounted on the� wall� or on the� ceiling.What are the advantages and disadvantages of the different variants ? A� pull up bar for the wallis� especially sustainable.These models are firmly mounted to the wall so that you do not have to hang them up every time before the training.This is especially useful for regular� pull up training, but it also� requires a lot of space, of course. These bars� can stand high loads� without problems, provided that your bar is of good quality ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "1089",
         "buy_link": "https://www.amazon.in/Kore-K-WM-Mounting-Construction-Fitness/dp/B074VFTPKH/ref=as_li_ss_il? _encoding=UTF8&psc=1&refRID=FF02Q70J51QXKZRKHBTM&linkCode=li2&tag=thebestone0a-21&linkId=103b3a27cf7e84dd84ca9c62004e66eb&language=en_IN",
@@ -1139,7 +1142,8 @@
             "Mi Smart Band 4",
             "Yoga Mat",
             "Dumbbells Kits"
-        ]
+        ],
+        "_id_": "54"
     },
     {
         "title": "Brandonn Smiley Hooded Blanket Cum Wrapper for Babies",
@@ -1149,7 +1153,6 @@
         "short_desc": "This product is made of super soft flannel and ensures maximum comfort to your little kids.The hood on this blanket keeps the baby's head safe from wind dust and breeze.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "325",
         "buy_link": "https://www.amazon.in/Brandonn-Smiley-Hooded-Blanket-Wrapper/dp/B01C9OA2J8/ref=as_li_ss_il? keywords=Brandonn+Smiley+Hooded+Blanket+Cum+Wrapper+for+Babies+(Beige)+76%25+off +76%25+off&qid=1571200635&smid=A3NO3AJOOVN0BQ&sr=8-1-fkmr0&linkCode=li2&tag=thebestone0a-21&linkId=897bafa802ecc9eb722c49679dffcdfd&language=en_IN",
@@ -1160,7 +1163,8 @@
             "Mosquito Net",
             "Johnson's Baby Care",
             "Reusable Mat"
-        ]
+        ],
+        "_id_": "55"
     },
     {
         "title": "JBL Wireless Speakers",
@@ -1171,7 +1175,6 @@
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Mobile Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "1699",
         "buy_link": "https://www.amazon.in/JBL-Portable-Wireless-Bluetooth-Speaker/dp/B00TFGWAA8/ref=as_li_ss_il? _encoding=UTF8&pd_rd_i=B00TFGWAA8&pd_rd_r=45452f5a-2645-4da8-9256- 837f8ebf42b0&pd_rd_w=SXT7P&pd_rd_wg=c0rqi&pf_rd_p=fbf43daf-8fb3-47b5-9deb-ae9cce3969a9&pf_rd_r=X39VKFZWPGZTGTA6XR54&psc=1&refRID=X39VKFZWPGZTGTA6XR54&linkCode=li2&tag=thebestone0a-21&linkId=8fc1ffe7d7011057828bbe7a431ce9e8&language=en_IN",
@@ -1182,7 +1185,8 @@
             "Boat Bluetooth",
             "Boat Ear Bluetooth",
             "Mi Powerbank"
-        ]
+        ],
+        "_id_": "56"
     },
     {
         "title": "WonderKids 13 Piece",
@@ -1192,7 +1196,6 @@
         "short_desc": "Share Your Love And Express Your Good Wishes To Your Baby With This Beautiful Newborn Baby Gift Set.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Baby Product",
-        "discount": "-25%",
         "age": "new",
         "price": "610",
         "buy_link": "https://www.amazon.in/WonderKids-Piece-Unisex-Babys-Gift/dp/B00QX3Y6IA/ref=as_li_ss_il?keywords=Mini +Berry+13+Piece+Unisex+Baby's+Gift+Set+(Blue)&qid=1571198792&sr=8-1&linkCode=li2&tag=thebestone0a-21&linkId=5914a530bb47d31f24fe30f6b02a2a4f&language=en_IN",
@@ -1203,18 +1206,18 @@
             "Johnson's Baby Care",
             "Mosquito Net",
             "Reusable Mat"
-        ]
+        ],
+        "_id_": "57"
     },
     {
         "title": "Wooden Calendar",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41UaHSx0vQL._SL540_.jpg",
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41UaHSx0vQL._SL160_.jpg",
         "page_link": "/product/productdetail?name=wooden_calender",
-        "short_desc": "Wooden Calendar ï¿½To give Impressive Look On Your Desk.",
+        "short_desc": "Wooden Calendar �To give Impressive Look On Your Desk.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Accessories",
         "sub_cat": "Office Accessories",
-        "discount": "-25%",
         "age": "new",
         "price": "450",
         "buy_link": "https://www.amazon.in/Shivom-Crafts-Calendar-Visiting-H-7-5cm_Multi/dp/B07FN2CQ7Q/ref=as_li_ss_il? keywords=Office+desk&pd_rd_i=B07FN2CQ7Q&pd_rd_r=5aa11e67-b251-4efa-a8eb- 3df7d283b3dd&pd_rd_w=yiy00&pd_rd_wg=ncfSN&pf_rd_p=eb1a6561-d0c5-4c2b-a80c- 5a575bb007be&pf_rd_r=FKGFGE2WC0FRC26JXQ95&qid=1571292311&refinements=p_72:1318477031,p_36:- 50000&rnid=6265400031&s=office&linkCode=li2&tag=thebestone0a-21&linkId=5ac526e642c6fdcbdbee9bb595103c4b&language=en_IN",
@@ -1225,7 +1228,8 @@
             "Desktop Organizer",
             "Portable Ruff Pad E-Writer",
             "Visiting Card Holder"
-        ]
+        ],
+        "_id_": "58"
     },
     {
         "title": "Wooden Name Lamp",
@@ -1235,7 +1239,6 @@
         "short_desc": "Candle shadow cube that can be personalized with tagline and name.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "1190",
         "buy_link": "https://www.amazon.in/dp/B07BVD42RR/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=6ee7b6ad89c27b805e4f04c65584fe90&language=en_IN",
@@ -1246,7 +1249,8 @@
             "Photo Strip Box",
             "Engraved Crystal",
             "Magic Mug"
-        ]
+        ],
+        "_id_": "59"
     },
     {
         "title": "Wooden Photo Frame",
@@ -1256,7 +1260,6 @@
         "short_desc": "Laser engraved wooden photo plaque is an amazing way to express your most personal and unique feelings for any kind of relationship.",
         "long_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry 's standard dummy text ever since the 1500s. When an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
         "main_cat": "Photo",
-        "discount": "-25%",
         "age": "new",
         "price": "379",
         "buy_link": "https://www.amazon.in/dp/B01M5FQDQ6/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=thebestone0a-21&linkId=65ce5b99aba80b1674d68897ecdd1747&language=en_IN",
@@ -1267,7 +1270,8 @@
             "Photo Strip Box",
             "Magic Mug",
             "Bottle Lamp"
-        ]
+        ],
+        "_id_": "60"
     },
     {
         "title": "Yoga Mat",
@@ -1275,21 +1279,19 @@
         "thumbnail_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41HohWcJucL._SL160_.jpg",
         "page_link": "/product/productdetail?name=yoga_mat",
         "short_desc": "The Strauss Yoga Mat is what you need for all your yoga exercises at home.",
-        "long_desc": "Details are important. Some of yogaï¿½s main goals are to improve your confidence and make you more relaxed. While a yoga mat is one of the optional yoga accessories, ï¿½a lot of people use themï¿½ because not only is it more comfortable, it also separates you physically from the rest of the world.If you use a mat that isnï¿½ t for yoga, a mat thatï¿½ s the wrong size, or just a mat that doesnï¿½ t make you feel like doing yoga, itï¿½ s quite likely that youï¿½ ll find it difficult to let go andï¿½ get started with yoga. Of course, ï¿½you can practise yoga without a mat, since you mightnï¿½ t always have your mat to hand.However, there are two good reasons for getting a mat: ",
+        "long_desc": "Details are important. Some of yoga�s main goals are to improve your confidence and make you more relaxed. While a yoga mat is one of the optional yoga accessories, �a lot of people use them� because not only is it more comfortable, it also separates you physically from the rest of the world.If you use a mat that isn� t for yoga, a mat that� s the wrong size, or just a mat that doesn� t make you feel like doing yoga, it� s quite likely that you� ll find it difficult to let go and� get started with yoga. Of course, �you can practise yoga without a mat, since you mightn� t always have your mat to hand.However, there are two good reasons for getting a mat: ",
         "main_cat": "Sports and Fitness",
-        "discount": "-25%",
         "age": "new",
         "price": "713",
         "buy_link": "https://www.amazon.in/Strauss-Yoga-Mat-6mm-Blue/dp/B014PIGM4K/ref=as_li_ss_il? crid=ZLZ9YKJVG65U&dchild=1&keywords=best+seller+fitness&psc=1&qid=1571286830&sprefix=Bestseller +fit,aps,400&sr=8-32&linkCode=li2&tag=thebestone0a-21&linkId=c59a2d00a95fb2035d2a27e7a5056ecd&language=en_IN",
         "slider_cat": "Best In Fitness",
-        "isLatest": true,
         "meta_tag_keyword": "Yoga, Mat, Workout, Excercise, Durable, Best Product",
         "meta_tag_desc": "Yoga mats are specially fabricated mats used to prevent hands and feet slipping during asana practice in modern yoga as exercise.",
         "related": [
             "Skipping Rope",
             "Dumbbells Kits",
             "Mi Smart Band 4"
-        ]
+        ],
+        "_id_": "61"
     }
 ]
-}
