@@ -1424,10 +1424,6 @@ select option {
     margin-bottom: 0px;
 }
 
-.order_info {
-    margin-top: 53px;
-}
-
 .product_quantity {
     width: 182px;
     height: 50px;
@@ -1621,18 +1617,12 @@ select option {
     clear: left;
 }
 
-.button_container {
-    margin-top: 43px;
-    margin-bottom: 43px;
-}
-
 .cart_button a {
     padding: 0;
 }
 
 .button_container .cart_button:first-child {
     margin-right: 20px;
-    margin-bottom: 20px;
 }
 
 .cart_button {
