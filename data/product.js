@@ -1,3 +1,8 @@
+/*
+https://html-cleaner.com/
+https://lingojam.com/TexttoOneLine
+https://codebeautify.org/javascript-escape-unescape
+*/
 var jsonObject = [{
         "title": "LED Tea Light Candles",
         "main_img_src": "https://images-eu.ssl-images-amazon.com/images/I/41L-drZGl%2BL._SL540_.jpg",
